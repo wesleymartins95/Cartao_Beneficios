@@ -1,0 +1,201 @@
+colaborador_id,empresa_id,produto,data_ativacao,status,saldo_disponivel_brl,gasto_mes_brl,categoria_gasto,frequencia_uso_mensal
+C0001,E004,Caju Ciclos,2023-07-09,Ativo,821.32,777.39,Home Office,20
+C0002,E002,Caju Ciclos,2024-01-29,Ativo,1149.04,338.13,Refeição,4
+C0003,E006,Cartão Multi Benefícios,2023-01-11,Ativo,476.72,877.82,Mobilidade,24
+C0004,E008,Cartão Multi Benefícios,2023-03-07,Ativo,1143.3,665.84,Flex,15
+C0005,E002,Premiações,2023-11-18,Ativo,1088.68,620.01,Saúde,0
+C0006,E006,Despesas Corporativas,2022-10-26,Bloqueado,1176.96,0,Cultura,0
+C0007,E006,Caju Ciclos,2022-06-07,Ativo,307.72,714.23,Mobilidade,28
+C0008,E005,Caju Ciclos,2022-12-12,Bloqueado,729.07,0,Alimentação,0
+C0009,E010,Cartão Multi Benefícios,2022-04-22,Bloqueado,755.84,0,Saúde,0
+C0010,E002,Caju Ciclos,2022-05-15,Ativo,457.27,518.54,Cultura,7
+C0011,E009,Premiações,2024-04-25,Ativo,447.28,279.32,Educação,11
+C0012,E009,Cartão Multi Benefícios,2022-11-14,Ativo,717.46,724.71,Home Office,2
+C0013,E006,Caju Ciclos,2022-08-17,Ativo,826.74,529.32,Flex,26
+C0014,E008,Despesas Corporativas,2022-10-24,Ativo,79.4,888.04,Refeição,7
+C0015,E007,Cartão Multi Benefícios,2023-01-17,Ativo,615.19,379.59,Saúde,22
+C0016,E001,Despesas Corporativas,2022-02-22,Ativo,342.5,233.06,Educação,26
+C0017,E003,Despesas Corporativas,2023-07-02,Ativo,213.25,295.66,Educação,21
+C0018,E003,Cartão Multi Benefícios,2022-10-05,Ativo,908.7,186.38,Saúde,30
+C0019,E009,Caju Ciclos,2023-07-09,Ativo,463.48,434.69,Flex,8
+C0020,E009,Caju Ciclos,2023-06-17,Ativo,143.37,763.04,Home Office,6
+C0021,E006,Despesas Corporativas,2023-07-20,Ativo,104.14,731.6,Mobilidade,15
+C0022,E001,Cartão Multi Benefícios,2022-12-29,Ativo,733.2,295.51,Cultura,2
+C0023,E003,Caju Ciclos,2022-05-17,Ativo,170.47,583.08,Alimentação,13
+C0024,E010,Premiações,2022-01-24,Inativo,954.62,0,Home Office,0
+C0025,E002,Premiações,2023-08-06,Ativo,448.06,662.13,Saúde,10
+C0026,E006,Premiações,2024-02-17,Ativo,510.48,666.75,Alimentação,16
+C0027,E005,Cartão Multi Benefícios,2023-12-04,Ativo,935.48,643.06,Refeição,24
+C0028,E003,Caju Ciclos,2023-12-09,Ativo,259.06,656.79,Flex,26
+C0029,E009,Cartão Multi Benefícios,2022-10-30,Inativo,75.49,0,Mobilidade,0
+C0030,E008,Cartão Multi Benefícios,2022-01-06,Ativo,494.28,785.16,Home Office,16
+C0031,E009,Despesas Corporativas,2022-04-14,Ativo,1191.0,359.96,Home Office,23
+C0032,E007,Caju Ciclos,2022-01-11,Ativo,670.78,173.5,Mobilidade,28
+C0033,E010,Premiações,2023-10-13,Ativo,1197.81,149.02,Refeição,9
+C0034,E005,Cartão Multi Benefícios,2022-01-27,Inativo,553.41,0,Cultura,0
+C0035,E010,Cartão Multi Benefícios,2023-02-04,Ativo,822.75,343.81,Refeição,27
+C0036,E004,Cartão Multi Benefícios,2023-07-01,Ativo,894.2,754.29,Home Office,21
+C0037,E010,Premiações,2023-11-11,Ativo,166.57,188.25,Refeição,7
+C0038,E003,Premiações,2022-12-29,Ativo,753.66,195.42,Saúde,25
+C0039,E010,Caju Ciclos,2022-08-12,Ativo,205.81,258.23,Mobilidade,22
+C0040,E002,Despesas Corporativas,2023-03-26,Ativo,63.61,160.61,Saúde,6
+C0041,E010,Caju Ciclos,2022-03-09,Ativo,566.1,178.36,Home Office,29
+C0042,E007,Caju Ciclos,2024-01-03,Ativo,482.86,188.51,Mobilidade,0
+C0043,E009,Premiações,2023-08-22,Inativo,158.94,0,Educação,0
+C0044,E008,Premiações,2024-05-30,Ativo,658.74,277.72,Cultura,30
+C0045,E010,Cartão Multi Benefícios,2023-05-31,Bloqueado,1015.97,0,Flex,0
+C0046,E005,Premiações,2023-10-29,Ativo,485.9,194.04,Refeição,24
+C0047,E002,Caju Ciclos,2022-04-28,Ativo,1154.03,812.58,Refeição,0
+C0048,E003,Premiações,2022-12-20,Ativo,178.31,721.8,Saúde,20
+C0049,E006,Caju Ciclos,2022-07-14,Ativo,358.18,713.52,Saúde,7
+C0050,E002,Premiações,2022-04-01,Ativo,90.11,653.55,Cultura,0
+C0051,E008,Caju Ciclos,2024-01-19,Ativo,272.12,484.43,Flex,24
+C0052,E005,Premiações,2023-11-29,Ativo,971.4,590.12,Home Office,7
+C0053,E002,Cartão Multi Benefícios,2023-11-23,Ativo,558.22,438.6,Cultura,24
+C0054,E001,Cartão Multi Benefícios,2022-07-21,Ativo,984.59,640.75,Educação,14
+C0055,E010,Despesas Corporativas,2022-01-15,Ativo,1086.83,512.84,Home Office,11
+C0056,E002,Despesas Corporativas,2023-11-02,Ativo,520.14,426.77,Home Office,4
+C0057,E010,Premiações,2024-01-29,Ativo,1148.05,99.25,Mobilidade,3
+C0058,E010,Despesas Corporativas,2022-09-05,Inativo,297.28,0,Saúde,0
+C0059,E003,Caju Ciclos,2022-07-13,Ativo,238.41,173.9,Mobilidade,18
+C0060,E007,Cartão Multi Benefícios,2024-03-07,Ativo,188.73,51.28,Educação,27
+C0061,E006,Cartão Multi Benefícios,2022-01-25,Ativo,1154.16,313.1,Saúde,21
+C0062,E007,Cartão Multi Benefícios,2022-09-12,Ativo,737.19,323.27,Educação,29
+C0063,E001,Despesas Corporativas,2024-03-06,Ativo,59.73,821.74,Home Office,3
+C0064,E003,Premiações,2024-05-17,Ativo,114.94,853.62,Home Office,6
+C0065,E006,Caju Ciclos,2022-09-24,Inativo,141.21,0,Home Office,0
+C0066,E002,Despesas Corporativas,2023-05-05,Ativo,903.47,472.53,Mobilidade,10
+C0067,E004,Caju Ciclos,2023-10-27,Ativo,1061.01,396.02,Flex,22
+C0068,E006,Caju Ciclos,2023-06-20,Ativo,992.29,50.6,Educação,24
+C0069,E004,Cartão Multi Benefícios,2022-03-16,Ativo,1089.08,226.95,Alimentação,12
+C0070,E001,Caju Ciclos,2024-03-04,Ativo,89.92,739.89,Cultura,18
+C0071,E001,Cartão Multi Benefícios,2024-01-13,Ativo,800.47,245.89,Cultura,15
+C0072,E004,Caju Ciclos,2022-03-26,Ativo,391.13,673.96,Saúde,26
+C0073,E010,Caju Ciclos,2024-04-25,Ativo,636.09,770.57,Home Office,14
+C0074,E008,Premiações,2022-03-18,Inativo,1085.28,0,Alimentação,0
+C0075,E010,Despesas Corporativas,2022-08-24,Ativo,407.34,867.77,Educação,23
+C0076,E008,Cartão Multi Benefícios,2023-09-27,Bloqueado,816.72,0,Refeição,0
+C0077,E009,Despesas Corporativas,2023-07-21,Ativo,430.19,863.86,Alimentação,18
+C0078,E004,Cartão Multi Benefícios,2023-06-26,Inativo,1118.38,0,Home Office,0
+C0079,E004,Premiações,2024-03-27,Ativo,553.43,820.67,Mobilidade,26
+C0080,E004,Despesas Corporativas,2023-08-16,Ativo,768.35,495.58,Flex,16
+C0081,E010,Premiações,2023-12-06,Ativo,619.09,580.27,Flex,11
+C0082,E010,Caju Ciclos,2022-05-03,Ativo,122.85,391.7,Flex,11
+C0083,E002,Cartão Multi Benefícios,2022-01-15,Bloqueado,183.5,0,Alimentação,0
+C0084,E007,Caju Ciclos,2023-12-19,Ativo,1023.69,885.32,Home Office,16
+C0085,E007,Caju Ciclos,2022-05-10,Ativo,561.82,721.65,Educação,26
+C0086,E009,Despesas Corporativas,2023-11-15,Ativo,833.84,674.27,Alimentação,7
+C0087,E005,Premiações,2023-01-30,Ativo,754.37,485.29,Mobilidade,11
+C0088,E001,Despesas Corporativas,2023-10-09,Ativo,309.28,411.02,Flex,9
+C0089,E006,Caju Ciclos,2024-04-22,Ativo,748.05,762.16,Saúde,14
+C0090,E001,Cartão Multi Benefícios,2023-07-07,Ativo,333.22,240.86,Home Office,3
+C0091,E002,Cartão Multi Benefícios,2023-10-11,Bloqueado,201.36,0,Educação,0
+C0092,E005,Despesas Corporativas,2022-07-27,Ativo,837.74,133.08,Alimentação,17
+C0093,E010,Cartão Multi Benefícios,2022-05-19,Ativo,1054.35,196.74,Cultura,22
+C0094,E004,Cartão Multi Benefícios,2022-08-25,Ativo,1054.65,843.05,Flex,17
+C0095,E002,Premiações,2023-03-10,Ativo,937.3,399.23,Home Office,27
+C0096,E002,Premiações,2023-01-21,Ativo,1143.96,374.15,Mobilidade,7
+C0097,E010,Caju Ciclos,2022-06-13,Inativo,1000.07,0,Saúde,0
+C0098,E008,Premiações,2023-12-23,Inativo,882.81,0,Saúde,0
+C0099,E007,Caju Ciclos,2024-02-28,Ativo,636.68,319.64,Refeição,5
+C0100,E003,Premiações,2023-10-01,Ativo,156.5,868.84,Cultura,1
+C0101,E004,Premiações,2024-04-14,Ativo,920.13,113.07,Home Office,13
+C0102,E007,Despesas Corporativas,2023-03-23,Ativo,321.78,654.63,Refeição,11
+C0103,E010,Premiações,2022-04-12,Bloqueado,1068.15,0,Educação,0
+C0104,E004,Caju Ciclos,2023-11-22,Ativo,348.43,512.74,Flex,22
+C0105,E009,Cartão Multi Benefícios,2022-10-23,Ativo,382.6,421.61,Home Office,29
+C0106,E002,Caju Ciclos,2022-04-22,Ativo,252.8,364.43,Cultura,27
+C0107,E008,Cartão Multi Benefícios,2022-01-05,Ativo,53.53,150.57,Cultura,25
+C0108,E002,Cartão Multi Benefícios,2023-08-18,Ativo,277.96,388.37,Alimentação,10
+C0109,E001,Caju Ciclos,2023-04-15,Inativo,796.92,0,Saúde,0
+C0110,E002,Caju Ciclos,2022-11-07,Ativo,219.41,517.89,Alimentação,28
+C0111,E005,Premiações,2022-12-17,Ativo,481.66,715.13,Cultura,6
+C0112,E002,Caju Ciclos,2022-05-07,Ativo,163.46,410.41,Mobilidade,27
+C0113,E006,Despesas Corporativas,2022-05-10,Ativo,1018.53,526.33,Saúde,9
+C0114,E008,Cartão Multi Benefícios,2023-01-18,Ativo,149.2,850.96,Flex,23
+C0115,E002,Despesas Corporativas,2023-02-22,Ativo,1188.4,143.81,Saúde,10
+C0116,E004,Cartão Multi Benefícios,2022-01-16,Inativo,284.85,0,Refeição,0
+C0117,E007,Cartão Multi Benefícios,2023-04-09,Bloqueado,228.75,0,Refeição,0
+C0118,E003,Caju Ciclos,2022-12-13,Bloqueado,832.67,0,Mobilidade,0
+C0119,E010,Premiações,2022-08-27,Ativo,133.44,766.42,Home Office,21
+C0120,E004,Despesas Corporativas,2022-11-04,Ativo,997.37,709.83,Cultura,18
+C0121,E005,Caju Ciclos,2023-02-02,Ativo,367.01,799.32,Saúde,4
+C0122,E001,Despesas Corporativas,2024-03-18,Bloqueado,512.5,0,Cultura,0
+C0123,E003,Cartão Multi Benefícios,2023-09-25,Ativo,1020.82,505.29,Mobilidade,27
+C0124,E010,Despesas Corporativas,2023-11-23,Ativo,571.6,892.9,Refeição,27
+C0125,E010,Despesas Corporativas,2023-03-03,Ativo,805.84,135.95,Refeição,28
+C0126,E007,Caju Ciclos,2022-11-10,Ativo,238.25,285.26,Mobilidade,23
+C0127,E002,Premiações,2022-12-27,Ativo,616.93,610.14,Mobilidade,9
+C0128,E003,Despesas Corporativas,2024-01-16,Ativo,257.88,328.22,Alimentação,29
+C0129,E006,Cartão Multi Benefícios,2022-10-28,Ativo,54.93,467.18,Alimentação,7
+C0130,E002,Caju Ciclos,2024-01-23,Ativo,552.19,553.01,Refeição,22
+C0131,E005,Caju Ciclos,2024-01-19,Ativo,85.29,391.07,Cultura,30
+C0132,E004,Cartão Multi Benefícios,2024-03-15,Ativo,441.05,140.62,Flex,0
+C0133,E003,Cartão Multi Benefícios,2022-01-24,Ativo,424.96,790.11,Refeição,10
+C0134,E007,Premiações,2022-05-30,Ativo,444.59,558.98,Flex,23
+C0135,E003,Despesas Corporativas,2024-03-29,Ativo,747.59,382.67,Mobilidade,4
+C0136,E002,Premiações,2024-01-05,Inativo,1045.86,0,Educação,0
+C0137,E001,Premiações,2023-12-15,Ativo,520.84,537.94,Refeição,22
+C0138,E003,Premiações,2022-08-11,Ativo,483.97,433.49,Flex,11
+C0139,E010,Cartão Multi Benefícios,2024-05-02,Ativo,946.75,770.99,Cultura,1
+C0140,E007,Despesas Corporativas,2022-08-10,Ativo,305.49,246.06,Alimentação,18
+C0141,E007,Premiações,2023-08-14,Ativo,1170.49,581.2,Educação,30
+C0142,E001,Caju Ciclos,2022-05-23,Bloqueado,600.03,0,Alimentação,0
+C0143,E001,Premiações,2023-01-02,Ativo,729.16,778.35,Alimentação,3
+C0144,E003,Caju Ciclos,2024-01-28,Inativo,248.95,0,Cultura,0
+C0145,E004,Despesas Corporativas,2023-05-17,Ativo,1066.08,399.92,Cultura,24
+C0146,E009,Premiações,2024-04-04,Ativo,58.2,596.06,Flex,4
+C0147,E001,Despesas Corporativas,2024-02-09,Inativo,157.87,0,Alimentação,0
+C0148,E004,Caju Ciclos,2022-08-31,Ativo,130.95,64.2,Cultura,24
+C0149,E010,Caju Ciclos,2023-04-13,Ativo,843.79,301.55,Educação,20
+C0150,E009,Despesas Corporativas,2023-12-06,Ativo,347.01,780.61,Mobilidade,28
+C0151,E008,Caju Ciclos,2024-02-22,Ativo,243.94,170.55,Saúde,3
+C0152,E001,Caju Ciclos,2022-08-29,Ativo,906.45,434.77,Refeição,2
+C0153,E006,Caju Ciclos,2023-12-29,Ativo,1070.88,789.14,Cultura,28
+C0154,E009,Caju Ciclos,2022-01-31,Ativo,1190.96,200.36,Cultura,5
+C0155,E006,Cartão Multi Benefícios,2024-02-01,Ativo,58.04,451.99,Alimentação,27
+C0156,E002,Premiações,2024-06-09,Ativo,541.08,62.73,Refeição,28
+C0157,E001,Despesas Corporativas,2024-02-18,Ativo,743.7,868.18,Saúde,8
+C0158,E006,Premiações,2023-08-21,Ativo,537.21,473.39,Mobilidade,5
+C0159,E009,Premiações,2022-03-03,Ativo,1188.58,836.9,Cultura,26
+C0160,E002,Cartão Multi Benefícios,2023-03-05,Ativo,576.99,614.85,Mobilidade,27
+C0161,E001,Caju Ciclos,2023-04-09,Ativo,137.95,114.75,Refeição,6
+C0162,E004,Premiações,2023-04-17,Ativo,73.13,855.92,Educação,15
+C0163,E008,Despesas Corporativas,2023-12-23,Ativo,138.23,674.17,Flex,15
+C0164,E004,Caju Ciclos,2023-08-09,Ativo,886.88,226.45,Refeição,2
+C0165,E001,Despesas Corporativas,2022-04-19,Ativo,946.25,573.9,Refeição,10
+C0166,E006,Cartão Multi Benefícios,2022-12-22,Ativo,487.03,247.15,Home Office,1
+C0167,E002,Cartão Multi Benefícios,2024-02-25,Ativo,288.65,58.78,Saúde,22
+C0168,E008,Caju Ciclos,2024-05-05,Ativo,565.52,493.8,Cultura,13
+C0169,E001,Despesas Corporativas,2023-12-03,Ativo,177.62,681.91,Mobilidade,28
+C0170,E007,Caju Ciclos,2024-05-19,Ativo,122.82,789.52,Mobilidade,16
+C0171,E004,Premiações,2022-12-01,Ativo,341.37,138.59,Alimentação,2
+C0172,E002,Premiações,2023-05-15,Ativo,486.07,569.53,Saúde,27
+C0173,E004,Caju Ciclos,2024-02-04,Ativo,887.83,201.88,Educação,11
+C0174,E010,Premiações,2024-01-04,Ativo,361.91,259.89,Cultura,15
+C0175,E001,Premiações,2023-04-17,Ativo,1169.91,813.75,Alimentação,11
+C0176,E001,Cartão Multi Benefícios,2023-06-17,Inativo,705.43,0,Mobilidade,0
+C0177,E010,Premiações,2024-03-13,Ativo,860.82,822.44,Saúde,22
+C0178,E009,Despesas Corporativas,2023-11-06,Ativo,1057.38,786.44,Saúde,18
+C0179,E010,Premiações,2024-01-13,Ativo,1170.16,106.13,Saúde,3
+C0180,E006,Premiações,2023-04-06,Ativo,502.39,257.19,Home Office,24
+C0181,E005,Premiações,2022-07-28,Ativo,313.29,877.94,Flex,6
+C0182,E004,Despesas Corporativas,2024-01-16,Ativo,370.72,224.34,Cultura,0
+C0183,E003,Premiações,2023-12-13,Ativo,975.56,443.25,Saúde,18
+C0184,E009,Cartão Multi Benefícios,2022-09-07,Bloqueado,1148.72,0,Alimentação,0
+C0185,E001,Premiações,2023-08-04,Ativo,1046.85,133.81,Saúde,29
+C0186,E010,Caju Ciclos,2023-11-26,Ativo,514.19,95.64,Alimentação,22
+C0187,E004,Cartão Multi Benefícios,2023-02-12,Inativo,955.43,0,Home Office,0
+C0188,E002,Premiações,2022-01-25,Ativo,910.18,240.3,Alimentação,15
+C0189,E010,Premiações,2022-10-01,Bloqueado,917.8,0,Mobilidade,0
+C0190,E005,Cartão Multi Benefícios,2024-05-05,Ativo,251.23,684.27,Refeição,14
+C0191,E010,Cartão Multi Benefícios,2023-10-23,Ativo,624.77,294.47,Flex,27
+C0192,E005,Despesas Corporativas,2022-01-06,Ativo,1147.52,419.43,Alimentação,10
+C0193,E007,Caju Ciclos,2023-10-23,Ativo,308.92,571.09,Home Office,23
+C0194,E001,Caju Ciclos,2024-05-09,Ativo,901.98,660.62,Mobilidade,10
+C0195,E006,Cartão Multi Benefícios,2022-11-04,Bloqueado,728.99,0,Flex,0
+C0196,E006,Despesas Corporativas,2023-12-23,Ativo,183.4,599.41,Educação,14
+C0197,E007,Despesas Corporativas,2023-04-06,Ativo,1039.27,712.06,Alimentação,18
+C0198,E007,Premiações,2022-11-02,Ativo,947.81,853.72,Saúde,6
+C0199,E009,Premiações,2024-06-02,Ativo,162.27,403.25,Cultura,22
+C0200,E001,Despesas Corporativas,2022-11-16,Inativo,544.03,0,Saúde,0

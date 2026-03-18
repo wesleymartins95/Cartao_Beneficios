@@ -1,0 +1,61 @@
+empresa_id,mes_ref,nps_score,categoria_nps,health_score,ticket_abertos,tempo_medio_resolucao_h,onboarding_completo,engajamento_colaboradores_pct,produto_principal
+E001,2025-01,19,Detrator,59.3,12,35.5,True,57.3,Despesas Corporativas
+E001,2025-02,99,Promotor,30.4,4,24.8,True,62.3,Caju Ciclos
+E001,2025-03,42,Detrator,90.1,15,59.4,True,50.7,Caju Ciclos
+E001,2025-04,64,Neutro,85.1,6,9.6,True,52.6,Cartão Multi Benefícios
+E001,2025-05,100,Promotor,82.8,10,36.6,False,74.8,Premiações
+E001,2025-06,46,Detrator,48.3,8,1.6,True,67.1,Premiações
+E002,2025-01,37,Detrator,43.6,6,58.4,True,58.7,Caju Ciclos
+E002,2025-02,38,Detrator,46.3,13,24.5,False,92.1,Despesas Corporativas
+E002,2025-03,45,Detrator,36.2,6,28.1,True,87.0,Caju Ciclos
+E002,2025-04,62,Neutro,30.4,7,61.6,True,57.4,Despesas Corporativas
+E002,2025-05,90,Promotor,96.4,6,20.6,False,81.7,Despesas Corporativas
+E002,2025-06,2,Detrator,74.0,12,71.1,True,84.3,Premiações
+E003,2025-01,94,Promotor,77.2,13,26.1,True,80.6,Premiações
+E003,2025-02,35,Detrator,58.9,2,46.6,True,92.8,Premiações
+E003,2025-03,6,Detrator,36.9,12,38.0,True,82.3,Cartão Multi Benefícios
+E003,2025-04,27,Detrator,39.2,11,6.1,True,75.2,Despesas Corporativas
+E003,2025-05,65,Neutro,89.8,4,5.3,False,57.6,Premiações
+E003,2025-06,39,Detrator,37.1,10,17.7,True,75.5,Despesas Corporativas
+E004,2025-01,34,Detrator,88.8,6,64.0,True,81.7,Premiações
+E004,2025-02,7,Detrator,77.6,11,38.7,True,64.6,Cartão Multi Benefícios
+E004,2025-03,62,Neutro,67.8,15,60.2,True,65.9,Cartão Multi Benefícios
+E004,2025-04,21,Detrator,65.1,6,20.7,True,74.4,Despesas Corporativas
+E004,2025-05,53,Neutro,62.9,14,70.8,True,64.8,Cartão Multi Benefícios
+E004,2025-06,8,Detrator,42.1,11,68.3,True,66.8,Premiações
+E005,2025-01,53,Neutro,34.6,7,38.1,False,51.6,Premiações
+E005,2025-02,54,Neutro,31.5,0,8.0,False,70.7,Premiações
+E005,2025-03,80,Promotor,88.0,0,18.3,True,69.7,Caju Ciclos
+E005,2025-04,30,Detrator,44.5,0,71.8,True,90.1,Caju Ciclos
+E005,2025-05,67,Neutro,74.1,2,45.3,True,44.2,Cartão Multi Benefícios
+E005,2025-06,14,Detrator,97.9,13,69.5,False,48.8,Despesas Corporativas
+E006,2025-01,69,Neutro,68.8,2,22.0,True,88.9,Despesas Corporativas
+E006,2025-02,59,Neutro,76.4,12,55.8,True,47.4,Caju Ciclos
+E006,2025-03,87,Promotor,58.3,5,50.7,True,86.4,Caju Ciclos
+E006,2025-04,90,Promotor,46.0,2,50.0,False,58.0,Caju Ciclos
+E006,2025-05,44,Detrator,49.7,10,29.4,False,94.2,Despesas Corporativas
+E006,2025-06,42,Detrator,67.5,9,19.1,True,91.6,Caju Ciclos
+E007,2025-01,31,Detrator,60.6,7,7.4,True,92.4,Caju Ciclos
+E007,2025-02,44,Detrator,49.1,5,41.0,True,55.5,Cartão Multi Benefícios
+E007,2025-03,73,Promotor,62.9,4,7.5,False,70.6,Despesas Corporativas
+E007,2025-04,48,Detrator,82.7,10,57.8,False,87.6,Despesas Corporativas
+E007,2025-05,55,Neutro,86.0,3,55.6,False,66.1,Caju Ciclos
+E007,2025-06,63,Neutro,30.4,15,4.8,True,69.8,Cartão Multi Benefícios
+E008,2025-01,3,Detrator,82.4,7,58.0,True,44.5,Despesas Corporativas
+E008,2025-02,33,Detrator,88.6,12,12.8,True,57.0,Cartão Multi Benefícios
+E008,2025-03,42,Detrator,78.3,9,38.2,True,83.6,Premiações
+E008,2025-04,95,Promotor,97.6,0,57.6,True,45.2,Caju Ciclos
+E008,2025-05,69,Neutro,75.7,10,28.2,True,44.5,Caju Ciclos
+E008,2025-06,96,Promotor,82.0,5,58.9,True,50.1,Caju Ciclos
+E009,2025-01,92,Promotor,30.9,2,10.7,True,60.0,Cartão Multi Benefícios
+E009,2025-02,36,Detrator,30.1,4,28.1,False,58.6,Caju Ciclos
+E009,2025-03,88,Promotor,56.8,8,60.3,False,75.5,Despesas Corporativas
+E009,2025-04,35,Detrator,91.3,13,18.2,False,64.4,Caju Ciclos
+E009,2025-05,74,Promotor,90.3,4,17.7,True,50.4,Despesas Corporativas
+E009,2025-06,29,Detrator,65.4,8,26.5,True,94.2,Despesas Corporativas
+E010,2025-01,12,Detrator,84.5,7,12.3,True,60.3,Caju Ciclos
+E010,2025-02,25,Detrator,30.0,1,8.5,True,59.4,Despesas Corporativas
+E010,2025-03,79,Promotor,83.3,12,19.0,True,54.4,Caju Ciclos
+E010,2025-04,79,Promotor,69.4,15,24.9,True,71.3,Cartão Multi Benefícios
+E010,2025-05,12,Detrator,38.7,2,26.5,True,73.2,Cartão Multi Benefícios
+E010,2025-06,12,Detrator,44.4,2,63.2,True,86.0,Caju Ciclos

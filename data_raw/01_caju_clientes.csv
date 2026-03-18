@@ -1,0 +1,11 @@
+empresa_id,razao_social,segmento,porte,cidade,estado,data_contrato,mrr_brl,status,gestor_cs,nps_ultimo
+E001,Tech Nova Ltda,Tecnologia,Enterprise,São Paulo,SP,2022-03-15,48000,Ativo,Ana Lima,72
+E002,Mercado Ágil S.A.,Varejo,Mid-Market,Rio de Janeiro,RJ,2023-01-10,18500,Ativo,Carlos Souza,58
+E003,Saúde Plena Clínicas,Saúde,SMB,Belo Horizonte,MG,2023-06-01,6200,Ativo,Ana Lima,85
+E004,Constru Max,Construção,SMB,Curitiba,PR,2022-11-20,9800,Churn,Carlos Souza,22
+E005,LogMais Transportes,Logística,Mid-Market,Porto Alegre,RS,2023-03-05,22000,Ativo,Priya Nair,67
+E006,Fintech Capital,Financeiro,Enterprise,São Paulo,SP,2021-08-01,95000,Ativo,Priya Nair,80
+E007,EduConnect,Educação,SMB,Recife,PE,2024-01-15,4500,Ativo,Ana Lima,91
+E008,Agro Futuro,Agronegócio,Mid-Market,Goiânia,GO,2023-09-12,14000,Ativo,Carlos Souza,63
+E009,Retail Brasil,Varejo,Enterprise,São Paulo,SP,2022-05-30,67000,Em Risco,Priya Nair,35
+E010,StartHub,Tecnologia,SMB,Florianópolis,SC,2024-02-20,3200,Ativo,Ana Lima,88

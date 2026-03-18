@@ -1,0 +1,121 @@
+empresa_id,mes_ref,evento,mrr_antes_brl,mrr_depois_brl,delta_brl,motivo,produto,porte
+E001,2025-06,Expansão,5797.64,7169.99,1372.35,Renegociação,Cartão Multi Benefícios,SMB
+E007,2025-04,Upsell,26085.23,35637.49,9552.26,Campanha,Caju Ciclos,Enterprise
+E008,2025-01,Upsell,78729.53,116357.7,37628.17,Novo produto,Cartão Multi Benefícios,SMB
+E006,2024-09,Upsell,8634.6,9343.25,708.65,Novo produto,Premiações,SMB
+E004,2024-09,Upsell,43300.8,49202.17,5901.37,Campanha,Despesas Corporativas,Enterprise
+E001,2025-05,Contração,49285.5,34477.48,-14808.02,Preço,Despesas Corporativas,Enterprise
+E003,2025-03,Expansão,26597.34,33996.28,7398.94,Novo produto,Despesas Corporativas,Enterprise
+E002,2024-07,Upsell,57647.25,84928.25,27281.0,Campanha,Caju Ciclos,Enterprise
+E009,2024-08,Churn,67983.48,0,-67983.48,Competidor,Caju Ciclos,Enterprise
+E004,2025-06,Reativação,49114.98,51878.41,2763.43,Novos colaboradores,Caju Ciclos,Enterprise
+E010,2025-05,Expansão,57567.55,62477.04,4909.49,Campanha,Despesas Corporativas,Mid-Market
+E006,2024-10,Reativação,44597.36,48921.3,4323.94,Renegociação,Caju Ciclos,Enterprise
+E006,2024-09,Upsell,23335.21,29910.04,6574.83,Renegociação,Cartão Multi Benefícios,Enterprise
+E009,2025-05,Expansão,13157.54,16430.49,3272.95,Novo produto,Caju Ciclos,SMB
+E004,2025-04,Reativação,6426.76,7306.28,879.52,Novo produto,Caju Ciclos,Enterprise
+E005,2024-10,Upsell,62281.85,85462.47,23180.62,Campanha,Premiações,Enterprise
+E008,2024-08,Contração,64279.65,53340.63,-10939.02,Sem uso,Caju Ciclos,Enterprise
+E010,2025-05,Upsell,32871.59,47553.9,14682.31,Novo produto,Caju Ciclos,SMB
+E006,2025-03,Upsell,59670.02,68777.83,9107.81,Novos colaboradores,Premiações,Enterprise
+E003,2024-09,Reativação,4940.86,6357.5,1416.64,Campanha,Caju Ciclos,Mid-Market
+E002,2025-06,Expansão,49244.56,69314.71,20070.15,Novo produto,Cartão Multi Benefícios,Enterprise
+E009,2025-05,Reativação,74310.56,102300.01,27989.45,Campanha,Cartão Multi Benefícios,SMB
+E009,2025-06,Upsell,33726.24,37148.66,3422.42,Novo produto,Despesas Corporativas,SMB
+E003,2025-02,Expansão,8172.87,10574.07,2401.2,Novo produto,Cartão Multi Benefícios,Mid-Market
+E009,2024-10,Upsell,55962.2,68149.95,12187.75,Renegociação,Caju Ciclos,Enterprise
+E007,2024-10,Upsell,58663.45,68047.19,9383.74,Novo produto,Despesas Corporativas,Enterprise
+E006,2025-02,Upsell,78021.53,108374.12,30352.59,Renegociação,Despesas Corporativas,SMB
+E008,2024-09,Expansão,49961.26,70864.28,20903.02,Renegociação,Cartão Multi Benefícios,Mid-Market
+E005,2025-05,Reativação,36336.65,38681.89,2345.24,Campanha,Despesas Corporativas,Enterprise
+E007,2024-12,Expansão,54679.0,76495.3,21816.3,Novos colaboradores,Premiações,Enterprise
+E007,2025-01,Upsell,12616.97,14517.29,1900.32,Novo produto,Cartão Multi Benefícios,Mid-Market
+E010,2024-11,Upsell,32322.26,42269.9,9947.64,Novos colaboradores,Cartão Multi Benefícios,Mid-Market
+E008,2024-07,Churn,32797.86,0,-32797.86,Crise interna,Caju Ciclos,SMB
+E008,2024-07,Churn,67131.6,0,-67131.6,Competidor,Despesas Corporativas,SMB
+E004,2025-03,Upsell,36734.71,40005.96,3271.25,Renegociação,Despesas Corporativas,SMB
+E004,2024-12,Reativação,61922.33,92462.78,30540.45,Novos colaboradores,Premiações,Mid-Market
+E007,2024-09,Expansão,33185.21,46032.96,12847.75,Renegociação,Caju Ciclos,Mid-Market
+E008,2025-01,Upsell,33000.08,48691.44,15691.36,Renegociação,Despesas Corporativas,SMB
+E003,2025-01,Expansão,29637.53,38419.61,8782.08,Campanha,Despesas Corporativas,SMB
+E009,2025-03,Upsell,21692.06,24617.57,2925.51,Campanha,Premiações,SMB
+E010,2024-08,Reativação,4691.15,6846.77,2155.62,Novo produto,Despesas Corporativas,Mid-Market
+E009,2024-10,Expansão,57822.95,73676.22,15853.27,Novo produto,Caju Ciclos,SMB
+E004,2024-11,Upsell,59636.22,63820.25,4184.03,Campanha,Caju Ciclos,Enterprise
+E008,2024-12,Expansão,6007.25,6427.32,420.07,Renegociação,Premiações,SMB
+E007,2025-06,Reativação,8902.03,10761.92,1859.89,Novos colaboradores,Premiações,Mid-Market
+E003,2024-08,Expansão,52061.4,70047.27,17985.87,Novo produto,Premiações,Enterprise
+E005,2024-10,Upsell,69154.17,99934.8,30780.63,Novos colaboradores,Caju Ciclos,Enterprise
+E007,2025-03,Contração,57051.55,50694.06,-6357.49,Crise interna,Despesas Corporativas,Enterprise
+E007,2025-02,Upsell,64059.82,86757.14,22697.32,Renegociação,Cartão Multi Benefícios,Enterprise
+E009,2024-11,Expansão,23198.6,31017.55,7818.95,Campanha,Caju Ciclos,Mid-Market
+E008,2025-01,Reativação,38912.02,41850.08,2938.06,Campanha,Cartão Multi Benefícios,Enterprise
+E006,2024-09,Expansão,26405.76,30274.36,3868.6,Renegociação,Premiações,SMB
+E003,2025-04,Reativação,65486.18,75746.88,10260.7,Renegociação,Cartão Multi Benefícios,SMB
+E008,2024-12,Expansão,40210.0,55553.23,15343.23,Novo produto,Caju Ciclos,SMB
+E009,2024-07,Upsell,33402.02,42434.3,9032.28,Novo produto,Despesas Corporativas,SMB
+E010,2024-10,Upsell,46655.94,59210.47,12554.53,Campanha,Cartão Multi Benefícios,Mid-Market
+E005,2024-09,Expansão,62898.89,67770.04,4871.15,Novos colaboradores,Cartão Multi Benefícios,SMB
+E007,2025-03,Expansão,44523.48,57887.87,13364.39,Renegociação,Cartão Multi Benefícios,Mid-Market
+E004,2024-09,Upsell,8368.32,11146.58,2778.26,Campanha,Caju Ciclos,Mid-Market
+E010,2025-05,Upsell,66248.95,86016.96,19768.01,Renegociação,Caju Ciclos,SMB
+E001,2024-10,Upsell,48685.97,51434.67,2748.7,Novo produto,Despesas Corporativas,SMB
+E010,2024-11,Expansão,55973.31,76666.59,20693.28,Renegociação,Premiações,SMB
+E003,2025-04,Expansão,75036.67,86418.61,11381.94,Novo produto,Despesas Corporativas,Mid-Market
+E005,2025-03,Expansão,76550.25,108832.89,32282.64,Novos colaboradores,Cartão Multi Benefícios,Mid-Market
+E002,2024-10,Reativação,21655.86,29069.62,7413.76,Campanha,Premiações,SMB
+E002,2025-01,Reativação,54250.55,75795.19,21544.64,Renegociação,Cartão Multi Benefícios,Mid-Market
+E010,2024-08,Expansão,40632.98,60611.2,19978.22,Novo produto,Caju Ciclos,Enterprise
+E002,2025-06,Reativação,30577.6,33618.45,3040.85,Novo produto,Caju Ciclos,Enterprise
+E008,2024-07,Expansão,51812.25,73665.77,21853.52,Novos colaboradores,Premiações,SMB
+E008,2024-10,Expansão,60289.62,76059.56,15769.94,Campanha,Premiações,SMB
+E009,2025-05,Reativação,47641.82,53971.04,6329.22,Campanha,Despesas Corporativas,Mid-Market
+E002,2025-05,Expansão,31295.64,34412.65,3117.01,Novos colaboradores,Cartão Multi Benefícios,Mid-Market
+E009,2025-06,Upsell,23505.53,33808.13,10302.6,Novos colaboradores,Caju Ciclos,SMB
+E008,2024-10,Reativação,11728.14,12547.01,818.87,Novo produto,Cartão Multi Benefícios,Enterprise
+E007,2025-04,Expansão,12063.51,17318.07,5254.56,Campanha,Caju Ciclos,Mid-Market
+E006,2025-06,Expansão,70382.69,80664.61,10281.92,Novo produto,Cartão Multi Benefícios,SMB
+E001,2025-01,Expansão,65757.01,77366.95,11609.94,Novo produto,Caju Ciclos,Enterprise
+E008,2024-10,Upsell,20309.79,27458.65,7148.86,Novo produto,Premiações,Mid-Market
+E002,2024-12,Contração,5820.85,5139.02,-681.83,Sem uso,Premiações,Enterprise
+E005,2025-05,Expansão,69979.73,100307.28,30327.55,Campanha,Cartão Multi Benefícios,Enterprise
+E003,2024-07,Upsell,13551.29,15696.02,2144.73,Campanha,Premiações,SMB
+E008,2024-12,Expansão,42709.06,52201.94,9492.88,Novo produto,Cartão Multi Benefícios,Mid-Market
+E010,2024-10,Contração,7816.87,4890.5,-2926.37,Crise interna,Despesas Corporativas,Mid-Market
+E010,2025-06,Reativação,27177.05,29097.24,1920.19,Novos colaboradores,Caju Ciclos,Mid-Market
+E005,2025-04,Expansão,18582.57,20509.02,1926.45,Campanha,Cartão Multi Benefícios,Enterprise
+E009,2024-10,Expansão,64353.86,68007.11,3653.25,Renegociação,Cartão Multi Benefícios,Mid-Market
+E005,2025-03,Expansão,73816.51,81419.3,7602.79,Novo produto,Caju Ciclos,Enterprise
+E004,2024-10,Upsell,34212.23,37685.64,3473.41,Novo produto,Premiações,SMB
+E006,2024-11,Reativação,43713.7,63289.99,19576.29,Renegociação,Despesas Corporativas,Mid-Market
+E010,2024-07,Upsell,57837.2,79041.58,21204.38,Campanha,Premiações,Enterprise
+E004,2024-09,Churn,48736.22,0,-48736.22,Crise interna,Despesas Corporativas,Mid-Market
+E009,2024-12,Upsell,74997.42,91406.58,16409.16,Novo produto,Caju Ciclos,SMB
+E003,2024-12,Upsell,24875.74,35841.6,10965.86,Renegociação,Caju Ciclos,SMB
+E003,2024-07,Upsell,25832.83,30906.58,5073.75,Novo produto,Caju Ciclos,Mid-Market
+E007,2025-06,Expansão,73176.0,97766.64,24590.64,Renegociação,Premiações,Mid-Market
+E009,2025-01,Churn,46557.93,0,-46557.93,Preço,Cartão Multi Benefícios,Enterprise
+E004,2025-01,Expansão,28849.94,31587.03,2737.09,Novo produto,Despesas Corporativas,Mid-Market
+E009,2024-12,Upsell,13888.16,16589.78,2701.62,Novo produto,Despesas Corporativas,SMB
+E003,2024-08,Expansão,76776.1,99847.46,23071.36,Renegociação,Cartão Multi Benefícios,Mid-Market
+E007,2025-02,Expansão,45285.0,49623.39,4338.39,Renegociação,Despesas Corporativas,Mid-Market
+E010,2024-08,Upsell,35953.84,42591.65,6637.81,Novo produto,Premiações,Enterprise
+E001,2024-08,Expansão,40073.41,58059.59,17986.18,Novos colaboradores,Caju Ciclos,Mid-Market
+E010,2024-09,Upsell,62150.78,83939.15,21788.37,Campanha,Caju Ciclos,SMB
+E004,2024-09,Upsell,69509.46,83024.07,13514.61,Novos colaboradores,Cartão Multi Benefícios,Enterprise
+E004,2025-06,Churn,7871.89,0,-7871.89,Competidor,Premiações,Mid-Market
+E005,2024-09,Upsell,70264.99,100623.6,30358.61,Novos colaboradores,Cartão Multi Benefícios,Mid-Market
+E006,2024-12,Upsell,3149.87,3956.86,806.99,Renegociação,Cartão Multi Benefícios,Enterprise
+E003,2025-03,Expansão,47902.49,70676.74,22774.25,Renegociação,Despesas Corporativas,Mid-Market
+E001,2024-08,Reativação,40771.7,54722.84,13951.14,Novo produto,Caju Ciclos,Mid-Market
+E005,2025-06,Contração,76357.49,62369.03,-13988.46,Crise interna,Despesas Corporativas,Mid-Market
+E008,2024-09,Upsell,58610.64,68972.47,10361.83,Novos colaboradores,Despesas Corporativas,Mid-Market
+E008,2025-06,Expansão,32589.58,48660.18,16070.6,Campanha,Cartão Multi Benefícios,Mid-Market
+E001,2025-02,Reativação,57791.62,67343.66,9552.04,Campanha,Cartão Multi Benefícios,Mid-Market
+E005,2025-01,Upsell,45913.49,55274.36,9360.87,Renegociação,Caju Ciclos,Enterprise
+E003,2024-09,Expansão,4840.37,5539.91,699.54,Novo produto,Despesas Corporativas,Mid-Market
+E003,2025-04,Churn,25103.25,0,-25103.25,Crise interna,Caju Ciclos,SMB
+E003,2024-10,Expansão,60592.45,79283.15,18690.7,Novos colaboradores,Cartão Multi Benefícios,SMB
+E006,2024-12,Upsell,13990.25,19854.32,5864.07,Novos colaboradores,Despesas Corporativas,SMB
+E007,2024-08,Reativação,22651.25,31562.63,8911.38,Campanha,Despesas Corporativas,Enterprise
+E003,2025-06,Expansão,28064.4,33939.95,5875.55,Campanha,Cartão Multi Benefícios,Mid-Market

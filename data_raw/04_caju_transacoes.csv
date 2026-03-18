@@ -1,0 +1,1001 @@
+transacao_id,colaborador_id,empresa_id,data_transacao,produto,categoria,valor_brl,status_transacao,canal,cidade,estado
+T000001,C0200,E005,2025-07-15,Cartão Multi Benefícios,Home Office,770.14,Aprovada,Físico,Rio de Janeiro,RJ
+T000002,C0170,E005,2025-10-24,Caju Ciclos,Flex,705.6,Aprovada,Físico,Belo Horizonte,MG
+T000003,C0191,E003,2025-12-06,Despesas Corporativas,Saúde,588.76,Aprovada,Online,São Paulo,SP
+T000004,C0167,E001,2025-09-02,Caju Ciclos,Cultura,383.5,Aprovada,Online,Curitiba,PR
+T000005,C0087,E006,2025-12-08,Caju Ciclos,Educação,195.25,Aprovada,Físico,Belo Horizonte,MG
+T000006,C0198,E009,2026-02-20,Cartão Multi Benefícios,Saúde,735.42,Negada,Físico,São Paulo,SP
+T000007,C0155,E004,2026-01-03,Despesas Corporativas,Mobilidade,627.01,Aprovada,App,Curitiba,PR
+T000008,C0089,E008,2025-08-17,Cartão Multi Benefícios,Flex,780.74,Aprovada,Físico,São Paulo,SP
+T000009,C0090,E002,2026-01-05,Premiações,Refeição,615.96,Aprovada,Online,São Paulo,SP
+T000010,C0037,E007,2026-01-02,Cartão Multi Benefícios,Saúde,727.12,Aprovada,Físico,Rio de Janeiro,RJ
+T000011,C0124,E007,2025-12-21,Premiações,Home Office,116.96,Aprovada,Físico,Rio de Janeiro,RJ
+T000012,C0029,E003,2025-08-10,Premiações,Cultura,302.72,Negada,Físico,São Paulo,SP
+T000013,C0170,E007,2025-12-20,Cartão Multi Benefícios,Refeição,722.84,Aprovada,Online,Curitiba,PR
+T000014,C0097,E001,2025-08-22,Despesas Corporativas,Educação,361.0,Aprovada,Físico,Belo Horizonte,MG
+T000015,C0082,E005,2025-12-22,Cartão Multi Benefícios,Refeição,745.08,Aprovada,App,Curitiba,PR
+T000016,C0100,E007,2025-10-31,Premiações,Flex,486.56,Aprovada,Físico,Curitiba,PR
+T000017,C0068,E004,2025-10-06,Cartão Multi Benefícios,Flex,397.75,Aprovada,Físico,Curitiba,PR
+T000018,C0090,E003,2025-05-10,Cartão Multi Benefícios,Refeição,760.91,Aprovada,Online,Porto Alegre,RS
+T000019,C0141,E006,2026-03-07,Premiações,Mobilidade,400.18,Aprovada,App,Curitiba,PR
+T000020,C0033,E009,2025-11-28,Despesas Corporativas,Alimentação,718.73,Aprovada,Físico,Porto Alegre,RS
+T000021,C0065,E009,2025-03-21,Despesas Corporativas,Cultura,659.25,Aprovada,Online,Porto Alegre,RS
+T000022,C0017,E002,2025-08-08,Cartão Multi Benefícios,Flex,38.57,Aprovada,Físico,Belo Horizonte,MG
+T000023,C0087,E009,2025-05-19,Cartão Multi Benefícios,Flex,203.6,Aprovada,Online,São Paulo,SP
+T000024,C0168,E001,2025-08-10,Premiações,Flex,112.76,Aprovada,Online,São Paulo,SP
+T000025,C0072,E005,2025-07-28,Premiações,Alimentação,316.42,Aprovada,App,Curitiba,PR
+T000026,C0070,E002,2025-11-05,Despesas Corporativas,Refeição,655.6,Negada,App,Rio de Janeiro,RJ
+T000027,C0109,E002,2025-07-07,Cartão Multi Benefícios,Home Office,661.03,Aprovada,Físico,Porto Alegre,RS
+T000028,C0135,E006,2025-12-13,Premiações,Refeição,478.68,Aprovada,Físico,Porto Alegre,RS
+T000029,C0150,E009,2025-06-05,Cartão Multi Benefícios,Saúde,723.96,Aprovada,Físico,Curitiba,PR
+T000030,C0172,E001,2025-10-10,Cartão Multi Benefícios,Flex,146.08,Aprovada,App,São Paulo,SP
+T000031,C0083,E008,2025-12-19,Premiações,Mobilidade,640.05,Negada,Online,São Paulo,SP
+T000032,C0045,E003,2026-02-15,Premiações,Alimentação,283.44,Aprovada,App,Porto Alegre,RS
+T000033,C0134,E010,2025-10-07,Despesas Corporativas,Alimentação,771.14,Aprovada,Físico,Curitiba,PR
+T000034,C0072,E009,2025-11-01,Caju Ciclos,Refeição,210.56,Aprovada,Físico,Porto Alegre,RS
+T000035,C0100,E004,2025-07-31,Premiações,Home Office,81.57,Aprovada,Online,Curitiba,PR
+T000036,C0122,E004,2025-09-12,Despesas Corporativas,Educação,660.35,Aprovada,Online,Porto Alegre,RS
+T000037,C0129,E008,2026-01-26,Despesas Corporativas,Educação,269.02,Aprovada,Online,Rio de Janeiro,RJ
+T000038,C0193,E010,2025-08-06,Caju Ciclos,Cultura,772.67,Negada,App,Curitiba,PR
+T000039,C0005,E008,2025-10-31,Premiações,Alimentação,100.39,Aprovada,App,Porto Alegre,RS
+T000040,C0133,E008,2025-11-08,Despesas Corporativas,Home Office,655.95,Aprovada,Online,Porto Alegre,RS
+T000041,C0062,E009,2025-11-07,Premiações,Cultura,784.46,Estornada,Online,Belo Horizonte,MG
+T000042,C0113,E007,2025-09-05,Despesas Corporativas,Alimentação,388.55,Aprovada,Online,Belo Horizonte,MG
+T000043,C0054,E001,2026-01-14,Cartão Multi Benefícios,Cultura,164.12,Negada,Físico,São Paulo,SP
+T000044,C0173,E002,2025-07-16,Caju Ciclos,Home Office,496.68,Aprovada,Físico,Porto Alegre,RS
+T000045,C0131,E010,2025-11-07,Despesas Corporativas,Alimentação,421.6,Aprovada,Físico,São Paulo,SP
+T000046,C0173,E010,2025-08-26,Despesas Corporativas,Alimentação,481.36,Aprovada,App,Porto Alegre,RS
+T000047,C0078,E002,2025-09-13,Cartão Multi Benefícios,Refeição,689.06,Aprovada,Online,Rio de Janeiro,RJ
+T000048,C0153,E007,2025-05-01,Caju Ciclos,Saúde,552.61,Negada,Físico,São Paulo,SP
+T000049,C0085,E001,2025-11-03,Premiações,Home Office,23.34,Aprovada,Físico,Porto Alegre,RS
+T000050,C0054,E010,2026-02-01,Cartão Multi Benefícios,Home Office,459.21,Aprovada,App,Belo Horizonte,MG
+T000051,C0142,E006,2025-04-10,Cartão Multi Benefícios,Educação,68.15,Aprovada,App,Porto Alegre,RS
+T000052,C0117,E009,2025-09-06,Caju Ciclos,Refeição,382.35,Aprovada,Online,Belo Horizonte,MG
+T000053,C0145,E008,2026-02-06,Cartão Multi Benefícios,Alimentação,772.7,Aprovada,App,Porto Alegre,RS
+T000054,C0186,E007,2025-11-09,Despesas Corporativas,Saúde,627.39,Aprovada,App,Rio de Janeiro,RJ
+T000055,C0080,E008,2025-09-01,Despesas Corporativas,Alimentação,665.36,Negada,App,Porto Alegre,RS
+T000056,C0145,E008,2026-01-26,Despesas Corporativas,Home Office,283.11,Negada,Online,São Paulo,SP
+T000057,C0095,E009,2026-03-02,Premiações,Flex,583.03,Aprovada,Físico,Rio de Janeiro,RJ
+T000058,C0168,E003,2026-03-12,Despesas Corporativas,Alimentação,67.8,Aprovada,Online,Belo Horizonte,MG
+T000059,C0072,E002,2025-08-31,Cartão Multi Benefícios,Cultura,27.47,Aprovada,Online,Porto Alegre,RS
+T000060,C0169,E004,2025-04-28,Despesas Corporativas,Home Office,711.79,Aprovada,App,Curitiba,PR
+T000061,C0030,E008,2025-10-24,Caju Ciclos,Refeição,493.4,Aprovada,Físico,São Paulo,SP
+T000062,C0160,E003,2025-11-19,Premiações,Mobilidade,394.61,Estornada,Online,Belo Horizonte,MG
+T000063,C0163,E003,2025-07-24,Despesas Corporativas,Mobilidade,772.67,Aprovada,Físico,São Paulo,SP
+T000064,C0052,E008,2025-04-05,Premiações,Saúde,366.31,Aprovada,App,Rio de Janeiro,RJ
+T000065,C0186,E001,2025-10-02,Cartão Multi Benefícios,Educação,263.07,Negada,Online,Porto Alegre,RS
+T000066,C0146,E004,2025-12-28,Premiações,Mobilidade,445.03,Aprovada,Físico,Belo Horizonte,MG
+T000067,C0120,E005,2025-10-20,Premiações,Mobilidade,372.8,Aprovada,Online,Rio de Janeiro,RJ
+T000068,C0181,E001,2025-08-18,Premiações,Cultura,504.18,Aprovada,Físico,São Paulo,SP
+T000069,C0048,E007,2025-04-17,Cartão Multi Benefícios,Educação,609.64,Aprovada,Online,Porto Alegre,RS
+T000070,C0094,E009,2025-08-18,Despesas Corporativas,Flex,470.7,Aprovada,Físico,Curitiba,PR
+T000071,C0017,E001,2025-07-14,Cartão Multi Benefícios,Flex,129.22,Aprovada,Físico,Belo Horizonte,MG
+T000072,C0140,E001,2025-08-06,Premiações,Cultura,269.17,Aprovada,Online,Rio de Janeiro,RJ
+T000073,C0018,E001,2025-09-17,Cartão Multi Benefícios,Home Office,60.32,Aprovada,Online,Belo Horizonte,MG
+T000074,C0128,E008,2025-05-26,Premiações,Alimentação,732.18,Aprovada,Online,Rio de Janeiro,RJ
+T000075,C0058,E007,2025-09-20,Caju Ciclos,Home Office,477.76,Aprovada,Online,Belo Horizonte,MG
+T000076,C0141,E002,2025-12-25,Despesas Corporativas,Flex,245.96,Aprovada,App,Porto Alegre,RS
+T000077,C0200,E008,2025-08-25,Caju Ciclos,Cultura,182.67,Aprovada,App,Rio de Janeiro,RJ
+T000078,C0192,E009,2025-07-09,Cartão Multi Benefícios,Home Office,688.94,Aprovada,App,Porto Alegre,RS
+T000079,C0108,E001,2025-03-26,Despesas Corporativas,Flex,731.09,Aprovada,App,Curitiba,PR
+T000080,C0199,E006,2025-07-21,Despesas Corporativas,Educação,788.37,Aprovada,Online,Porto Alegre,RS
+T000081,C0129,E004,2025-06-30,Cartão Multi Benefícios,Home Office,789.41,Aprovada,App,Porto Alegre,RS
+T000082,C0129,E008,2025-05-25,Despesas Corporativas,Mobilidade,417.66,Aprovada,Online,São Paulo,SP
+T000083,C0135,E006,2025-04-21,Despesas Corporativas,Flex,75.5,Aprovada,Online,Rio de Janeiro,RJ
+T000084,C0019,E007,2025-10-03,Premiações,Refeição,633.44,Negada,App,Porto Alegre,RS
+T000085,C0045,E002,2025-10-13,Cartão Multi Benefícios,Saúde,494.57,Aprovada,Físico,Curitiba,PR
+T000086,C0083,E006,2025-05-15,Cartão Multi Benefícios,Refeição,715.24,Negada,Físico,Belo Horizonte,MG
+T000087,C0135,E008,2025-07-31,Cartão Multi Benefícios,Alimentação,495.29,Aprovada,Físico,Curitiba,PR
+T000088,C0145,E004,2025-06-16,Despesas Corporativas,Alimentação,399.92,Aprovada,Online,Rio de Janeiro,RJ
+T000089,C0155,E008,2025-07-09,Caju Ciclos,Flex,766.32,Aprovada,App,Porto Alegre,RS
+T000090,C0026,E005,2025-12-26,Premiações,Educação,66.0,Aprovada,Físico,Porto Alegre,RS
+T000091,C0091,E010,2026-02-16,Caju Ciclos,Saúde,569.47,Negada,Online,São Paulo,SP
+T000092,C0096,E002,2025-06-20,Premiações,Saúde,679.86,Aprovada,App,Porto Alegre,RS
+T000093,C0175,E006,2026-02-10,Despesas Corporativas,Flex,361.22,Negada,App,São Paulo,SP
+T000094,C0111,E004,2025-03-15,Cartão Multi Benefícios,Educação,764.51,Aprovada,Online,Porto Alegre,RS
+T000095,C0164,E006,2026-02-06,Premiações,Mobilidade,549.95,Estornada,App,Curitiba,PR
+T000096,C0035,E006,2025-12-16,Cartão Multi Benefícios,Home Office,597.48,Aprovada,Online,São Paulo,SP
+T000097,C0040,E010,2026-03-01,Premiações,Saúde,368.52,Aprovada,Físico,Porto Alegre,RS
+T000098,C0138,E007,2025-08-31,Cartão Multi Benefícios,Home Office,613.44,Aprovada,App,Curitiba,PR
+T000099,C0126,E001,2025-12-14,Caju Ciclos,Cultura,236.61,Aprovada,App,Porto Alegre,RS
+T000100,C0109,E006,2025-03-24,Caju Ciclos,Mobilidade,367.35,Aprovada,Físico,Curitiba,PR
+T000101,C0058,E007,2025-09-30,Cartão Multi Benefícios,Alimentação,102.74,Aprovada,Online,São Paulo,SP
+T000102,C0115,E004,2025-05-29,Cartão Multi Benefícios,Refeição,83.53,Aprovada,Online,Belo Horizonte,MG
+T000103,C0059,E005,2025-10-13,Cartão Multi Benefícios,Alimentação,719.49,Aprovada,App,Belo Horizonte,MG
+T000104,C0166,E005,2025-07-10,Premiações,Alimentação,789.3,Negada,Físico,Belo Horizonte,MG
+T000105,C0144,E003,2025-10-26,Caju Ciclos,Flex,660.6,Aprovada,Físico,Rio de Janeiro,RJ
+T000106,C0083,E006,2026-01-20,Premiações,Home Office,409.74,Aprovada,Físico,Belo Horizonte,MG
+T000107,C0037,E006,2025-11-20,Cartão Multi Benefícios,Saúde,743.75,Aprovada,Físico,Porto Alegre,RS
+T000108,C0153,E003,2025-05-15,Cartão Multi Benefícios,Flex,619.58,Aprovada,Físico,São Paulo,SP
+T000109,C0072,E008,2025-05-14,Premiações,Home Office,530.61,Aprovada,Físico,Belo Horizonte,MG
+T000110,C0179,E003,2025-07-21,Caju Ciclos,Flex,179.39,Aprovada,Online,Belo Horizonte,MG
+T000111,C0143,E003,2025-11-09,Caju Ciclos,Saúde,231.15,Aprovada,Online,Curitiba,PR
+T000112,C0196,E001,2025-08-18,Despesas Corporativas,Home Office,624.87,Aprovada,Online,Curitiba,PR
+T000113,C0168,E003,2025-08-31,Caju Ciclos,Mobilidade,43.96,Aprovada,Online,São Paulo,SP
+T000114,C0157,E004,2026-02-03,Despesas Corporativas,Educação,644.02,Aprovada,Físico,Rio de Janeiro,RJ
+T000115,C0066,E005,2026-02-17,Despesas Corporativas,Flex,576.64,Aprovada,App,Belo Horizonte,MG
+T000116,C0082,E005,2025-07-06,Caju Ciclos,Home Office,287.54,Aprovada,Online,Curitiba,PR
+T000117,C0186,E007,2026-02-12,Caju Ciclos,Educação,703.77,Aprovada,Online,Curitiba,PR
+T000118,C0132,E006,2025-12-15,Premiações,Refeição,395.68,Aprovada,App,São Paulo,SP
+T000119,C0195,E005,2026-01-29,Cartão Multi Benefícios,Alimentação,737.17,Aprovada,Físico,São Paulo,SP
+T000120,C0032,E005,2025-11-22,Cartão Multi Benefícios,Alimentação,277.14,Aprovada,Online,Belo Horizonte,MG
+T000121,C0156,E008,2025-12-31,Cartão Multi Benefícios,Mobilidade,654.29,Aprovada,Físico,Belo Horizonte,MG
+T000122,C0083,E005,2025-11-03,Premiações,Educação,132.05,Negada,App,Belo Horizonte,MG
+T000123,C0108,E009,2025-05-23,Cartão Multi Benefícios,Refeição,307.78,Aprovada,App,Rio de Janeiro,RJ
+T000124,C0113,E008,2025-08-21,Cartão Multi Benefícios,Saúde,523.28,Estornada,App,Porto Alegre,RS
+T000125,C0033,E005,2025-04-27,Cartão Multi Benefícios,Refeição,524.44,Aprovada,Online,Belo Horizonte,MG
+T000126,C0082,E009,2025-08-11,Cartão Multi Benefícios,Flex,265.99,Aprovada,Físico,São Paulo,SP
+T000127,C0014,E010,2025-12-06,Cartão Multi Benefícios,Educação,401.9,Aprovada,Físico,Curitiba,PR
+T000128,C0030,E004,2026-02-11,Despesas Corporativas,Educação,435.15,Aprovada,App,Belo Horizonte,MG
+T000129,C0160,E001,2025-08-02,Cartão Multi Benefícios,Saúde,527.79,Aprovada,App,Rio de Janeiro,RJ
+T000130,C0200,E009,2026-02-25,Caju Ciclos,Educação,143.59,Aprovada,Online,Porto Alegre,RS
+T000131,C0156,E002,2025-07-26,Caju Ciclos,Home Office,328.18,Aprovada,Online,São Paulo,SP
+T000132,C0025,E009,2026-01-15,Cartão Multi Benefícios,Saúde,406.14,Aprovada,Físico,Belo Horizonte,MG
+T000133,C0111,E009,2025-09-28,Premiações,Educação,382.67,Negada,Online,São Paulo,SP
+T000134,C0046,E004,2025-04-19,Despesas Corporativas,Mobilidade,423.33,Aprovada,App,Belo Horizonte,MG
+T000135,C0054,E005,2025-05-07,Premiações,Alimentação,171.05,Negada,Físico,Rio de Janeiro,RJ
+T000136,C0184,E006,2025-04-11,Caju Ciclos,Saúde,486.53,Aprovada,App,Rio de Janeiro,RJ
+T000137,C0074,E003,2025-08-04,Cartão Multi Benefícios,Home Office,299.9,Aprovada,App,Belo Horizonte,MG
+T000138,C0127,E001,2025-08-21,Despesas Corporativas,Saúde,571.83,Aprovada,Físico,Belo Horizonte,MG
+T000139,C0062,E003,2025-03-15,Premiações,Cultura,549.48,Negada,Físico,São Paulo,SP
+T000140,C0133,E001,2026-02-18,Premiações,Refeição,21.33,Aprovada,App,Curitiba,PR
+T000141,C0100,E004,2026-01-29,Caju Ciclos,Home Office,766.52,Aprovada,Físico,Porto Alegre,RS
+T000142,C0186,E010,2025-12-13,Despesas Corporativas,Cultura,751.42,Aprovada,App,Porto Alegre,RS
+T000143,C0080,E008,2025-10-18,Despesas Corporativas,Refeição,168.73,Aprovada,Físico,São Paulo,SP
+T000144,C0119,E009,2025-09-06,Caju Ciclos,Home Office,251.1,Aprovada,Online,Rio de Janeiro,RJ
+T000145,C0079,E004,2025-07-22,Caju Ciclos,Cultura,528.05,Aprovada,Físico,Curitiba,PR
+T000146,C0042,E001,2025-07-05,Cartão Multi Benefícios,Mobilidade,131.76,Aprovada,Físico,Porto Alegre,RS
+T000147,C0104,E009,2025-06-20,Despesas Corporativas,Alimentação,743.06,Aprovada,Físico,Porto Alegre,RS
+T000148,C0111,E009,2025-08-17,Premiações,Cultura,443.95,Aprovada,App,Porto Alegre,RS
+T000149,C0101,E006,2026-02-08,Despesas Corporativas,Flex,649.65,Aprovada,Físico,Porto Alegre,RS
+T000150,C0027,E006,2025-07-15,Premiações,Home Office,241.2,Negada,App,Curitiba,PR
+T000151,C0117,E009,2025-07-28,Premiações,Saúde,287.58,Aprovada,App,Belo Horizonte,MG
+T000152,C0145,E007,2025-11-01,Cartão Multi Benefícios,Educação,311.69,Aprovada,Físico,Rio de Janeiro,RJ
+T000153,C0099,E003,2026-01-22,Despesas Corporativas,Flex,338.83,Aprovada,App,Curitiba,PR
+T000154,C0168,E004,2026-01-18,Cartão Multi Benefícios,Refeição,344.12,Aprovada,Online,Rio de Janeiro,RJ
+T000155,C0171,E001,2026-02-26,Despesas Corporativas,Flex,192.99,Aprovada,Físico,Belo Horizonte,MG
+T000156,C0008,E010,2025-03-28,Premiações,Saúde,391.93,Aprovada,Físico,Curitiba,PR
+T000157,C0009,E009,2025-12-04,Premiações,Home Office,205.02,Aprovada,Físico,Porto Alegre,RS
+T000158,C0173,E010,2025-10-03,Premiações,Alimentação,681.78,Aprovada,App,Rio de Janeiro,RJ
+T000159,C0097,E008,2025-11-20,Caju Ciclos,Cultura,764.04,Negada,Online,Rio de Janeiro,RJ
+T000160,C0013,E003,2025-08-13,Caju Ciclos,Cultura,635.96,Aprovada,Online,Curitiba,PR
+T000161,C0186,E002,2025-12-13,Caju Ciclos,Saúde,24.44,Aprovada,Físico,São Paulo,SP
+T000162,C0039,E009,2025-07-22,Cartão Multi Benefícios,Home Office,144.49,Aprovada,Físico,Curitiba,PR
+T000163,C0190,E007,2025-07-12,Premiações,Alimentação,181.82,Aprovada,App,Curitiba,PR
+T000164,C0067,E007,2025-03-31,Despesas Corporativas,Saúde,137.38,Aprovada,Físico,Rio de Janeiro,RJ
+T000165,C0072,E009,2025-10-28,Caju Ciclos,Educação,219.3,Aprovada,Físico,São Paulo,SP
+T000166,C0177,E003,2025-12-16,Premiações,Refeição,123.2,Aprovada,Físico,Curitiba,PR
+T000167,C0040,E009,2025-07-03,Caju Ciclos,Flex,694.21,Aprovada,Físico,Belo Horizonte,MG
+T000168,C0056,E006,2025-05-13,Despesas Corporativas,Educação,73.96,Aprovada,Físico,Rio de Janeiro,RJ
+T000169,C0018,E010,2025-11-26,Cartão Multi Benefícios,Alimentação,792.15,Aprovada,App,Belo Horizonte,MG
+T000170,C0036,E001,2026-01-09,Cartão Multi Benefícios,Flex,623.89,Aprovada,Físico,Porto Alegre,RS
+T000171,C0020,E001,2025-04-14,Caju Ciclos,Cultura,450.37,Negada,Online,Belo Horizonte,MG
+T000172,C0065,E008,2025-11-13,Caju Ciclos,Educação,323.14,Negada,Físico,São Paulo,SP
+T000173,C0069,E009,2025-08-10,Cartão Multi Benefícios,Home Office,242.8,Negada,App,Rio de Janeiro,RJ
+T000174,C0191,E001,2025-09-06,Despesas Corporativas,Refeição,629.78,Negada,Online,São Paulo,SP
+T000175,C0191,E007,2025-03-16,Cartão Multi Benefícios,Flex,94.08,Aprovada,Físico,São Paulo,SP
+T000176,C0004,E009,2025-05-21,Caju Ciclos,Flex,399.39,Negada,Físico,Porto Alegre,RS
+T000177,C0167,E005,2025-11-25,Premiações,Cultura,458.28,Aprovada,App,Belo Horizonte,MG
+T000178,C0160,E009,2025-06-13,Caju Ciclos,Alimentação,429.18,Aprovada,Online,Rio de Janeiro,RJ
+T000179,C0018,E005,2025-07-27,Caju Ciclos,Cultura,424.19,Aprovada,Online,São Paulo,SP
+T000180,C0073,E001,2025-09-27,Caju Ciclos,Saúde,349.12,Aprovada,Online,Porto Alegre,RS
+T000181,C0188,E002,2026-03-04,Premiações,Flex,659.82,Aprovada,Online,Curitiba,PR
+T000182,C0184,E010,2025-07-01,Caju Ciclos,Alimentação,546.48,Negada,App,Rio de Janeiro,RJ
+T000183,C0032,E004,2025-04-16,Despesas Corporativas,Refeição,732.54,Aprovada,Físico,Belo Horizonte,MG
+T000184,C0128,E009,2025-08-08,Caju Ciclos,Refeição,485.98,Aprovada,Online,São Paulo,SP
+T000185,C0199,E005,2025-05-27,Caju Ciclos,Saúde,455.91,Aprovada,Físico,Porto Alegre,RS
+T000186,C0154,E009,2025-09-01,Premiações,Alimentação,9.35,Aprovada,Físico,Belo Horizonte,MG
+T000187,C0061,E010,2026-02-28,Premiações,Mobilidade,187.09,Aprovada,App,Rio de Janeiro,RJ
+T000188,C0096,E010,2025-05-31,Premiações,Home Office,155.29,Aprovada,Físico,Rio de Janeiro,RJ
+T000189,C0135,E010,2025-04-28,Caju Ciclos,Flex,569.6,Aprovada,App,Belo Horizonte,MG
+T000190,C0050,E004,2025-08-12,Despesas Corporativas,Educação,161.84,Aprovada,Físico,Curitiba,PR
+T000191,C0168,E009,2025-07-27,Premiações,Mobilidade,415.54,Aprovada,Online,Rio de Janeiro,RJ
+T000192,C0189,E008,2025-11-11,Caju Ciclos,Home Office,757.46,Aprovada,App,São Paulo,SP
+T000193,C0140,E001,2026-02-10,Despesas Corporativas,Refeição,579.51,Aprovada,Online,Curitiba,PR
+T000194,C0033,E009,2026-03-06,Caju Ciclos,Educação,361.71,Negada,Online,Belo Horizonte,MG
+T000195,C0008,E007,2025-03-21,Caju Ciclos,Home Office,688.24,Aprovada,Online,Belo Horizonte,MG
+T000196,C0075,E006,2026-01-15,Cartão Multi Benefícios,Educação,162.94,Aprovada,App,Rio de Janeiro,RJ
+T000197,C0003,E006,2026-02-28,Despesas Corporativas,Cultura,162.4,Estornada,Online,Belo Horizonte,MG
+T000198,C0088,E001,2025-06-25,Despesas Corporativas,Saúde,377.97,Aprovada,Físico,Rio de Janeiro,RJ
+T000199,C0105,E006,2025-05-22,Despesas Corporativas,Educação,231.14,Aprovada,Online,Belo Horizonte,MG
+T000200,C0005,E008,2025-12-19,Caju Ciclos,Mobilidade,327.71,Estornada,App,São Paulo,SP
+T000201,C0087,E010,2025-07-21,Premiações,Flex,750.29,Aprovada,Físico,Porto Alegre,RS
+T000202,C0020,E001,2025-08-17,Premiações,Cultura,96.37,Aprovada,App,Curitiba,PR
+T000203,C0122,E006,2026-03-03,Premiações,Alimentação,658.72,Aprovada,Físico,Porto Alegre,RS
+T000204,C0071,E008,2025-05-18,Caju Ciclos,Flex,720.89,Aprovada,Físico,Belo Horizonte,MG
+T000205,C0179,E004,2025-07-30,Caju Ciclos,Saúde,618.95,Aprovada,App,Rio de Janeiro,RJ
+T000206,C0038,E005,2025-07-06,Despesas Corporativas,Saúde,26.12,Aprovada,App,Belo Horizonte,MG
+T000207,C0047,E010,2026-02-08,Despesas Corporativas,Mobilidade,182.52,Aprovada,App,São Paulo,SP
+T000208,C0021,E001,2025-11-24,Despesas Corporativas,Educação,27.61,Aprovada,Online,Belo Horizonte,MG
+T000209,C0093,E006,2025-07-05,Premiações,Refeição,195.23,Aprovada,Físico,São Paulo,SP
+T000210,C0154,E004,2025-11-02,Despesas Corporativas,Alimentação,221.3,Aprovada,Físico,Rio de Janeiro,RJ
+T000211,C0176,E005,2026-01-16,Despesas Corporativas,Home Office,794.49,Aprovada,Online,Curitiba,PR
+T000212,C0070,E002,2025-04-14,Premiações,Mobilidade,105.2,Negada,Físico,Curitiba,PR
+T000213,C0193,E010,2026-02-18,Cartão Multi Benefícios,Alimentação,771.15,Estornada,Físico,São Paulo,SP
+T000214,C0162,E010,2025-05-11,Premiações,Cultura,473.0,Aprovada,Físico,Rio de Janeiro,RJ
+T000215,C0144,E006,2025-06-09,Despesas Corporativas,Mobilidade,327.75,Aprovada,App,Curitiba,PR
+T000216,C0119,E005,2025-10-04,Despesas Corporativas,Home Office,131.77,Aprovada,App,Curitiba,PR
+T000217,C0146,E007,2026-02-14,Cartão Multi Benefícios,Alimentação,249.4,Aprovada,App,Porto Alegre,RS
+T000218,C0015,E003,2025-07-15,Caju Ciclos,Refeição,254.77,Aprovada,Físico,Rio de Janeiro,RJ
+T000219,C0110,E008,2025-05-23,Premiações,Mobilidade,596.71,Aprovada,App,Porto Alegre,RS
+T000220,C0075,E006,2025-05-01,Cartão Multi Benefícios,Educação,795.39,Aprovada,Físico,São Paulo,SP
+T000221,C0059,E006,2025-12-28,Premiações,Saúde,440.21,Aprovada,Online,Belo Horizonte,MG
+T000222,C0003,E002,2025-11-12,Despesas Corporativas,Cultura,357.48,Estornada,Físico,Belo Horizonte,MG
+T000223,C0178,E006,2025-07-01,Cartão Multi Benefícios,Flex,732.45,Aprovada,Físico,Rio de Janeiro,RJ
+T000224,C0008,E010,2025-03-19,Cartão Multi Benefícios,Alimentação,326.54,Aprovada,Físico,Curitiba,PR
+T000225,C0164,E005,2025-08-13,Caju Ciclos,Saúde,328.47,Aprovada,Físico,Curitiba,PR
+T000226,C0176,E001,2025-09-26,Cartão Multi Benefícios,Refeição,375.1,Aprovada,Físico,São Paulo,SP
+T000227,C0165,E001,2025-08-07,Cartão Multi Benefícios,Refeição,35.98,Aprovada,App,Porto Alegre,RS
+T000228,C0186,E007,2025-12-13,Despesas Corporativas,Saúde,232.37,Aprovada,App,Porto Alegre,RS
+T000229,C0179,E003,2025-12-11,Cartão Multi Benefícios,Cultura,217.25,Aprovada,Físico,São Paulo,SP
+T000230,C0086,E010,2025-12-10,Caju Ciclos,Refeição,23.57,Aprovada,Online,Porto Alegre,RS
+T000231,C0072,E003,2025-10-03,Cartão Multi Benefícios,Flex,105.6,Aprovada,Online,Rio de Janeiro,RJ
+T000232,C0053,E003,2025-09-08,Cartão Multi Benefícios,Alimentação,791.31,Aprovada,Físico,São Paulo,SP
+T000233,C0196,E005,2026-02-13,Premiações,Refeição,131.26,Aprovada,Físico,Curitiba,PR
+T000234,C0083,E003,2025-06-07,Caju Ciclos,Home Office,506.93,Aprovada,Online,Curitiba,PR
+T000235,C0164,E007,2025-04-06,Premiações,Educação,776.61,Estornada,App,São Paulo,SP
+T000236,C0045,E002,2025-12-20,Cartão Multi Benefícios,Educação,734.18,Aprovada,Online,Porto Alegre,RS
+T000237,C0030,E008,2025-07-26,Premiações,Flex,280.4,Aprovada,Físico,Curitiba,PR
+T000238,C0040,E007,2026-01-26,Despesas Corporativas,Mobilidade,177.4,Aprovada,Físico,Belo Horizonte,MG
+T000239,C0075,E002,2026-03-03,Despesas Corporativas,Alimentação,162.82,Aprovada,App,Rio de Janeiro,RJ
+T000240,C0043,E006,2025-10-27,Caju Ciclos,Saúde,714.26,Aprovada,Online,Rio de Janeiro,RJ
+T000241,C0170,E001,2025-07-26,Caju Ciclos,Mobilidade,97.73,Aprovada,Online,Porto Alegre,RS
+T000242,C0134,E007,2025-07-06,Caju Ciclos,Saúde,505.73,Aprovada,App,São Paulo,SP
+T000243,C0006,E009,2025-05-14,Cartão Multi Benefícios,Refeição,112.18,Aprovada,Físico,Curitiba,PR
+T000244,C0033,E006,2025-04-29,Cartão Multi Benefícios,Saúde,157.59,Aprovada,Online,Belo Horizonte,MG
+T000245,C0098,E001,2025-04-21,Cartão Multi Benefícios,Mobilidade,702.99,Aprovada,Físico,Belo Horizonte,MG
+T000246,C0189,E008,2025-05-12,Premiações,Flex,235.35,Aprovada,App,Porto Alegre,RS
+T000247,C0088,E005,2025-08-12,Despesas Corporativas,Home Office,508.05,Aprovada,App,Belo Horizonte,MG
+T000248,C0062,E002,2026-02-23,Cartão Multi Benefícios,Refeição,297.27,Negada,Online,São Paulo,SP
+T000249,C0052,E006,2025-08-04,Despesas Corporativas,Mobilidade,303.17,Aprovada,Online,Rio de Janeiro,RJ
+T000250,C0172,E010,2026-01-21,Cartão Multi Benefícios,Saúde,500.44,Aprovada,App,Porto Alegre,RS
+T000251,C0019,E002,2025-05-08,Premiações,Alimentação,59.71,Aprovada,App,São Paulo,SP
+T000252,C0087,E008,2025-04-01,Caju Ciclos,Saúde,229.89,Aprovada,Físico,São Paulo,SP
+T000253,C0174,E001,2025-05-28,Premiações,Alimentação,489.88,Aprovada,Físico,Belo Horizonte,MG
+T000254,C0159,E001,2026-01-18,Premiações,Saúde,335.34,Aprovada,App,Curitiba,PR
+T000255,C0087,E002,2025-10-09,Caju Ciclos,Refeição,143.68,Estornada,Online,Porto Alegre,RS
+T000256,C0131,E007,2025-05-08,Caju Ciclos,Educação,554.29,Aprovada,Online,Curitiba,PR
+T000257,C0067,E010,2026-02-28,Caju Ciclos,Refeição,483.2,Aprovada,App,Rio de Janeiro,RJ
+T000258,C0033,E002,2025-06-23,Despesas Corporativas,Refeição,565.19,Aprovada,App,Porto Alegre,RS
+T000259,C0188,E002,2026-02-26,Cartão Multi Benefícios,Cultura,792.35,Aprovada,Online,Curitiba,PR
+T000260,C0070,E002,2025-07-02,Cartão Multi Benefícios,Educação,124.42,Aprovada,Online,Curitiba,PR
+T000261,C0144,E002,2025-12-22,Caju Ciclos,Mobilidade,423.4,Aprovada,App,São Paulo,SP
+T000262,C0021,E010,2025-08-30,Caju Ciclos,Flex,696.31,Aprovada,Online,Belo Horizonte,MG
+T000263,C0135,E008,2025-05-30,Premiações,Refeição,678.92,Aprovada,Físico,Curitiba,PR
+T000264,C0155,E003,2025-04-27,Premiações,Saúde,458.35,Estornada,Físico,Rio de Janeiro,RJ
+T000265,C0069,E007,2025-04-28,Premiações,Flex,45.24,Aprovada,Online,São Paulo,SP
+T000266,C0014,E004,2026-02-01,Caju Ciclos,Home Office,228.19,Aprovada,Físico,Rio de Janeiro,RJ
+T000267,C0029,E003,2025-05-05,Caju Ciclos,Mobilidade,23.8,Aprovada,Online,Rio de Janeiro,RJ
+T000268,C0192,E010,2025-05-23,Despesas Corporativas,Mobilidade,247.66,Aprovada,Online,Curitiba,PR
+T000269,C0052,E008,2025-11-14,Caju Ciclos,Refeição,763.95,Estornada,Físico,Rio de Janeiro,RJ
+T000270,C0137,E001,2025-12-19,Despesas Corporativas,Educação,367.49,Negada,App,Porto Alegre,RS
+T000271,C0099,E005,2025-08-18,Premiações,Saúde,246.29,Aprovada,Online,Rio de Janeiro,RJ
+T000272,C0174,E007,2025-12-06,Despesas Corporativas,Refeição,719.95,Aprovada,Físico,Rio de Janeiro,RJ
+T000273,C0006,E006,2025-11-03,Premiações,Home Office,297.76,Aprovada,App,Curitiba,PR
+T000274,C0195,E007,2025-06-30,Caju Ciclos,Alimentação,102.11,Aprovada,Online,Belo Horizonte,MG
+T000275,C0032,E010,2025-09-06,Premiações,Cultura,474.65,Aprovada,App,Porto Alegre,RS
+T000276,C0004,E006,2026-01-02,Caju Ciclos,Mobilidade,42.12,Aprovada,Online,São Paulo,SP
+T000277,C0171,E010,2025-05-22,Caju Ciclos,Refeição,314.53,Aprovada,Online,Belo Horizonte,MG
+T000278,C0008,E007,2025-12-17,Caju Ciclos,Cultura,252.6,Aprovada,Físico,Porto Alegre,RS
+T000279,C0155,E001,2025-09-16,Caju Ciclos,Alimentação,440.63,Aprovada,Online,Curitiba,PR
+T000280,C0102,E008,2025-10-10,Premiações,Refeição,150.63,Aprovada,Online,Porto Alegre,RS
+T000281,C0192,E008,2025-08-20,Cartão Multi Benefícios,Alimentação,463.15,Aprovada,Online,Rio de Janeiro,RJ
+T000282,C0192,E004,2026-02-13,Premiações,Home Office,168.77,Aprovada,Físico,São Paulo,SP
+T000283,C0199,E003,2025-04-07,Cartão Multi Benefícios,Alimentação,375.49,Aprovada,Físico,Rio de Janeiro,RJ
+T000284,C0048,E002,2025-07-21,Caju Ciclos,Saúde,775.4,Aprovada,Físico,Rio de Janeiro,RJ
+T000285,C0135,E010,2025-07-23,Premiações,Educação,662.68,Aprovada,Físico,Belo Horizonte,MG
+T000286,C0064,E009,2025-11-03,Premiações,Flex,217.2,Aprovada,Online,Belo Horizonte,MG
+T000287,C0168,E006,2025-08-06,Premiações,Flex,660.84,Aprovada,App,Rio de Janeiro,RJ
+T000288,C0118,E006,2025-12-05,Cartão Multi Benefícios,Cultura,724.96,Aprovada,App,São Paulo,SP
+T000289,C0021,E003,2025-08-29,Caju Ciclos,Educação,322.82,Aprovada,Online,São Paulo,SP
+T000290,C0050,E006,2025-06-18,Cartão Multi Benefícios,Saúde,761.88,Aprovada,Online,Belo Horizonte,MG
+T000291,C0058,E004,2025-06-21,Premiações,Refeição,699.78,Aprovada,Físico,Curitiba,PR
+T000292,C0025,E010,2025-03-19,Caju Ciclos,Refeição,699.38,Aprovada,Físico,Curitiba,PR
+T000293,C0059,E001,2025-09-01,Despesas Corporativas,Mobilidade,580.75,Aprovada,Online,Porto Alegre,RS
+T000294,C0082,E001,2026-02-20,Caju Ciclos,Refeição,615.78,Aprovada,Online,Curitiba,PR
+T000295,C0180,E010,2025-12-22,Caju Ciclos,Flex,15.71,Aprovada,Físico,Belo Horizonte,MG
+T000296,C0122,E002,2025-07-30,Despesas Corporativas,Flex,633.74,Aprovada,Online,São Paulo,SP
+T000297,C0133,E003,2026-01-01,Caju Ciclos,Home Office,73.72,Aprovada,App,Curitiba,PR
+T000298,C0014,E009,2025-05-26,Cartão Multi Benefícios,Educação,508.97,Aprovada,Online,Porto Alegre,RS
+T000299,C0139,E005,2026-02-02,Premiações,Cultura,6.42,Aprovada,App,Curitiba,PR
+T000300,C0035,E007,2025-06-03,Premiações,Educação,599.47,Aprovada,App,Rio de Janeiro,RJ
+T000301,C0021,E008,2025-09-15,Cartão Multi Benefícios,Home Office,474.15,Aprovada,App,Belo Horizonte,MG
+T000302,C0042,E007,2025-03-26,Cartão Multi Benefícios,Educação,7.59,Aprovada,App,Curitiba,PR
+T000303,C0170,E004,2025-09-06,Caju Ciclos,Alimentação,395.63,Aprovada,Físico,Curitiba,PR
+T000304,C0165,E008,2025-08-18,Cartão Multi Benefícios,Flex,493.14,Aprovada,Físico,São Paulo,SP
+T000305,C0051,E005,2025-12-26,Premiações,Refeição,359.63,Aprovada,Online,Rio de Janeiro,RJ
+T000306,C0194,E006,2025-08-28,Cartão Multi Benefícios,Cultura,726.72,Aprovada,Online,Rio de Janeiro,RJ
+T000307,C0160,E008,2025-09-12,Caju Ciclos,Cultura,655.73,Aprovada,Físico,Curitiba,PR
+T000308,C0096,E003,2025-07-18,Cartão Multi Benefícios,Saúde,20.85,Aprovada,Físico,Curitiba,PR
+T000309,C0171,E008,2025-06-17,Cartão Multi Benefícios,Cultura,744.32,Aprovada,Online,Belo Horizonte,MG
+T000310,C0171,E002,2025-11-04,Premiações,Refeição,347.93,Aprovada,App,Curitiba,PR
+T000311,C0044,E002,2026-01-26,Despesas Corporativas,Refeição,600.03,Aprovada,Físico,Curitiba,PR
+T000312,C0200,E006,2025-10-03,Cartão Multi Benefícios,Educação,183.76,Aprovada,Online,Curitiba,PR
+T000313,C0053,E003,2025-05-13,Despesas Corporativas,Home Office,524.42,Aprovada,Online,São Paulo,SP
+T000314,C0142,E009,2025-10-22,Cartão Multi Benefícios,Home Office,546.51,Aprovada,Online,Rio de Janeiro,RJ
+T000315,C0184,E006,2025-12-11,Caju Ciclos,Home Office,306.81,Estornada,Físico,Curitiba,PR
+T000316,C0086,E002,2026-03-07,Cartão Multi Benefícios,Cultura,643.19,Estornada,Online,Rio de Janeiro,RJ
+T000317,C0162,E004,2025-08-19,Premiações,Mobilidade,597.93,Aprovada,Físico,São Paulo,SP
+T000318,C0116,E007,2025-11-08,Cartão Multi Benefícios,Alimentação,31.21,Aprovada,App,Belo Horizonte,MG
+T000319,C0177,E004,2026-01-03,Caju Ciclos,Home Office,89.98,Aprovada,Online,Curitiba,PR
+T000320,C0003,E004,2026-01-26,Caju Ciclos,Educação,262.38,Aprovada,Físico,Belo Horizonte,MG
+T000321,C0139,E003,2026-01-11,Premiações,Alimentação,141.25,Aprovada,Físico,Rio de Janeiro,RJ
+T000322,C0131,E010,2025-11-23,Despesas Corporativas,Educação,448.92,Aprovada,App,Porto Alegre,RS
+T000323,C0030,E007,2025-04-30,Cartão Multi Benefícios,Refeição,564.7,Aprovada,App,Belo Horizonte,MG
+T000324,C0040,E001,2026-01-27,Caju Ciclos,Home Office,672.14,Aprovada,Online,Rio de Janeiro,RJ
+T000325,C0187,E004,2025-08-18,Premiações,Home Office,470.58,Aprovada,Online,Rio de Janeiro,RJ
+T000326,C0047,E010,2025-08-05,Cartão Multi Benefícios,Alimentação,388.5,Aprovada,Físico,Rio de Janeiro,RJ
+T000327,C0043,E008,2025-09-02,Cartão Multi Benefícios,Refeição,89.16,Aprovada,App,São Paulo,SP
+T000328,C0072,E002,2025-06-07,Despesas Corporativas,Cultura,72.83,Aprovada,App,Porto Alegre,RS
+T000329,C0081,E005,2025-07-02,Caju Ciclos,Mobilidade,251.43,Aprovada,App,Porto Alegre,RS
+T000330,C0116,E005,2025-11-07,Premiações,Mobilidade,113.72,Aprovada,Online,São Paulo,SP
+T000331,C0006,E006,2026-01-03,Premiações,Alimentação,359.33,Aprovada,Físico,São Paulo,SP
+T000332,C0174,E010,2026-02-23,Premiações,Educação,407.1,Aprovada,App,Rio de Janeiro,RJ
+T000333,C0198,E004,2025-04-20,Caju Ciclos,Saúde,607.48,Aprovada,App,Curitiba,PR
+T000334,C0024,E006,2025-03-22,Cartão Multi Benefícios,Alimentação,21.56,Aprovada,Online,Porto Alegre,RS
+T000335,C0066,E010,2026-02-26,Caju Ciclos,Refeição,254.72,Aprovada,Físico,Porto Alegre,RS
+T000336,C0112,E007,2025-12-14,Caju Ciclos,Flex,527.59,Aprovada,Físico,Rio de Janeiro,RJ
+T000337,C0099,E007,2025-12-27,Cartão Multi Benefícios,Home Office,644.24,Aprovada,Físico,São Paulo,SP
+T000338,C0139,E002,2026-02-08,Despesas Corporativas,Mobilidade,116.61,Aprovada,App,Porto Alegre,RS
+T000339,C0091,E001,2025-05-16,Premiações,Saúde,365.71,Aprovada,Físico,Porto Alegre,RS
+T000340,C0169,E006,2025-09-22,Premiações,Saúde,550.54,Aprovada,Online,São Paulo,SP
+T000341,C0077,E010,2025-10-17,Despesas Corporativas,Mobilidade,542.8,Aprovada,App,Rio de Janeiro,RJ
+T000342,C0128,E002,2025-04-19,Premiações,Home Office,508.62,Aprovada,App,São Paulo,SP
+T000343,C0168,E010,2025-04-13,Premiações,Refeição,208.18,Aprovada,Online,Belo Horizonte,MG
+T000344,C0154,E002,2025-12-02,Premiações,Home Office,350.33,Aprovada,Online,Belo Horizonte,MG
+T000345,C0189,E004,2026-02-02,Despesas Corporativas,Home Office,692.14,Aprovada,Físico,Curitiba,PR
+T000346,C0126,E009,2025-10-13,Despesas Corporativas,Mobilidade,453.44,Aprovada,App,Rio de Janeiro,RJ
+T000347,C0104,E003,2025-08-30,Despesas Corporativas,Educação,766.3,Aprovada,Físico,Rio de Janeiro,RJ
+T000348,C0008,E008,2025-10-07,Premiações,Educação,124.27,Aprovada,Online,Belo Horizonte,MG
+T000349,C0043,E003,2025-10-14,Caju Ciclos,Educação,14.06,Aprovada,Físico,Porto Alegre,RS
+T000350,C0008,E003,2025-09-28,Cartão Multi Benefícios,Saúde,459.3,Aprovada,Online,Curitiba,PR
+T000351,C0133,E007,2025-11-20,Premiações,Alimentação,544.13,Aprovada,App,Curitiba,PR
+T000352,C0095,E004,2025-08-30,Cartão Multi Benefícios,Mobilidade,40.81,Aprovada,App,Belo Horizonte,MG
+T000353,C0194,E006,2025-12-26,Premiações,Home Office,268.9,Aprovada,Online,Belo Horizonte,MG
+T000354,C0180,E008,2025-11-30,Despesas Corporativas,Flex,673.33,Aprovada,Online,Rio de Janeiro,RJ
+T000355,C0075,E007,2025-11-30,Premiações,Mobilidade,46.69,Aprovada,Online,São Paulo,SP
+T000356,C0131,E006,2025-05-09,Cartão Multi Benefícios,Saúde,513.76,Aprovada,App,Porto Alegre,RS
+T000357,C0066,E003,2026-01-25,Premiações,Saúde,556.11,Aprovada,Online,Curitiba,PR
+T000358,C0186,E002,2025-04-21,Caju Ciclos,Educação,293.81,Aprovada,Online,Porto Alegre,RS
+T000359,C0102,E005,2026-01-10,Despesas Corporativas,Refeição,771.71,Aprovada,Físico,Curitiba,PR
+T000360,C0044,E009,2025-08-24,Caju Ciclos,Mobilidade,407.54,Aprovada,Online,São Paulo,SP
+T000361,C0041,E006,2025-12-24,Caju Ciclos,Educação,337.38,Aprovada,App,Rio de Janeiro,RJ
+T000362,C0109,E009,2025-05-09,Cartão Multi Benefícios,Flex,349.44,Aprovada,Físico,São Paulo,SP
+T000363,C0126,E010,2026-02-25,Cartão Multi Benefícios,Flex,690.27,Aprovada,Físico,Curitiba,PR
+T000364,C0092,E003,2025-06-15,Caju Ciclos,Home Office,615.15,Negada,Online,São Paulo,SP
+T000365,C0099,E008,2025-12-25,Cartão Multi Benefícios,Mobilidade,748.73,Aprovada,App,São Paulo,SP
+T000366,C0066,E002,2025-08-20,Caju Ciclos,Educação,91.03,Aprovada,Online,Rio de Janeiro,RJ
+T000367,C0021,E008,2026-01-15,Caju Ciclos,Flex,592.64,Aprovada,Online,Rio de Janeiro,RJ
+T000368,C0029,E004,2026-01-21,Premiações,Saúde,457.23,Aprovada,App,Porto Alegre,RS
+T000369,C0165,E009,2025-04-08,Premiações,Educação,89.94,Aprovada,Físico,Curitiba,PR
+T000370,C0044,E005,2026-01-30,Cartão Multi Benefícios,Home Office,598.64,Aprovada,Online,São Paulo,SP
+T000371,C0168,E010,2025-10-09,Despesas Corporativas,Saúde,144.29,Aprovada,Online,Curitiba,PR
+T000372,C0052,E008,2025-06-30,Despesas Corporativas,Mobilidade,554.28,Estornada,Físico,São Paulo,SP
+T000373,C0087,E003,2025-10-19,Despesas Corporativas,Mobilidade,139.67,Aprovada,App,Rio de Janeiro,RJ
+T000374,C0076,E008,2025-05-12,Despesas Corporativas,Refeição,739.95,Aprovada,Físico,Rio de Janeiro,RJ
+T000375,C0130,E006,2026-03-07,Cartão Multi Benefícios,Saúde,641.67,Aprovada,Online,Curitiba,PR
+T000376,C0042,E008,2026-02-22,Cartão Multi Benefícios,Educação,99.03,Aprovada,Físico,Rio de Janeiro,RJ
+T000377,C0172,E001,2025-08-03,Cartão Multi Benefícios,Flex,324.39,Aprovada,App,São Paulo,SP
+T000378,C0113,E006,2025-07-18,Premiações,Refeição,123.92,Aprovada,Online,São Paulo,SP
+T000379,C0120,E003,2025-06-29,Cartão Multi Benefícios,Cultura,300.3,Aprovada,App,Rio de Janeiro,RJ
+T000380,C0137,E008,2025-05-24,Caju Ciclos,Saúde,324.86,Aprovada,App,Porto Alegre,RS
+T000381,C0045,E005,2025-10-18,Premiações,Home Office,388.2,Aprovada,App,São Paulo,SP
+T000382,C0011,E003,2025-08-22,Premiações,Cultura,204.02,Aprovada,App,Belo Horizonte,MG
+T000383,C0005,E003,2026-02-10,Cartão Multi Benefícios,Mobilidade,189.12,Estornada,App,Curitiba,PR
+T000384,C0074,E004,2026-01-25,Cartão Multi Benefícios,Cultura,577.34,Aprovada,Físico,São Paulo,SP
+T000385,C0145,E008,2025-03-15,Despesas Corporativas,Alimentação,552.15,Aprovada,App,Belo Horizonte,MG
+T000386,C0183,E002,2025-11-04,Caju Ciclos,Flex,693.17,Aprovada,App,Porto Alegre,RS
+T000387,C0184,E002,2025-05-24,Caju Ciclos,Mobilidade,509.83,Aprovada,Físico,Belo Horizonte,MG
+T000388,C0118,E002,2025-04-12,Caju Ciclos,Mobilidade,454.71,Negada,Online,Rio de Janeiro,RJ
+T000389,C0021,E010,2025-08-24,Premiações,Mobilidade,77.23,Aprovada,App,São Paulo,SP
+T000390,C0010,E008,2025-10-10,Cartão Multi Benefícios,Refeição,425.63,Aprovada,Físico,Belo Horizonte,MG
+T000391,C0090,E005,2025-11-01,Despesas Corporativas,Educação,172.42,Aprovada,Online,Curitiba,PR
+T000392,C0100,E001,2025-06-16,Caju Ciclos,Home Office,220.31,Aprovada,App,Rio de Janeiro,RJ
+T000393,C0160,E006,2025-06-09,Cartão Multi Benefícios,Flex,330.36,Aprovada,Físico,Curitiba,PR
+T000394,C0106,E002,2025-11-17,Premiações,Cultura,716.6,Aprovada,Online,Belo Horizonte,MG
+T000395,C0171,E005,2025-09-18,Premiações,Saúde,141.58,Aprovada,App,Porto Alegre,RS
+T000396,C0178,E003,2025-05-21,Despesas Corporativas,Alimentação,356.61,Aprovada,Online,Curitiba,PR
+T000397,C0083,E008,2025-12-26,Despesas Corporativas,Alimentação,530.38,Negada,Físico,Belo Horizonte,MG
+T000398,C0088,E006,2025-07-05,Premiações,Refeição,422.19,Aprovada,Online,Belo Horizonte,MG
+T000399,C0165,E002,2026-01-05,Premiações,Flex,620.49,Negada,App,Porto Alegre,RS
+T000400,C0030,E005,2025-05-20,Cartão Multi Benefícios,Educação,778.7,Aprovada,App,Curitiba,PR
+T000401,C0172,E008,2025-05-31,Caju Ciclos,Flex,225.17,Aprovada,App,São Paulo,SP
+T000402,C0084,E010,2025-05-11,Cartão Multi Benefícios,Mobilidade,174.96,Aprovada,Físico,Porto Alegre,RS
+T000403,C0007,E007,2025-12-10,Caju Ciclos,Cultura,665.56,Aprovada,Online,Belo Horizonte,MG
+T000404,C0105,E006,2025-08-13,Caju Ciclos,Mobilidade,589.41,Aprovada,Físico,Curitiba,PR
+T000405,C0013,E007,2025-05-03,Cartão Multi Benefícios,Home Office,285.26,Aprovada,Físico,Rio de Janeiro,RJ
+T000406,C0195,E006,2025-04-27,Premiações,Refeição,764.76,Aprovada,App,Porto Alegre,RS
+T000407,C0139,E008,2025-06-29,Caju Ciclos,Mobilidade,374.75,Aprovada,App,Porto Alegre,RS
+T000408,C0139,E005,2025-04-04,Cartão Multi Benefícios,Refeição,269.71,Aprovada,Físico,Rio de Janeiro,RJ
+T000409,C0035,E003,2025-06-10,Cartão Multi Benefícios,Educação,281.48,Estornada,App,Rio de Janeiro,RJ
+T000410,C0060,E008,2025-06-23,Despesas Corporativas,Mobilidade,504.96,Aprovada,Online,Belo Horizonte,MG
+T000411,C0177,E003,2025-04-01,Premiações,Flex,126.36,Aprovada,Online,Porto Alegre,RS
+T000412,C0049,E003,2025-07-16,Despesas Corporativas,Flex,235.42,Aprovada,Online,Curitiba,PR
+T000413,C0077,E008,2026-02-19,Despesas Corporativas,Mobilidade,111.35,Aprovada,Online,São Paulo,SP
+T000414,C0148,E008,2025-12-05,Caju Ciclos,Flex,495.02,Aprovada,Online,Belo Horizonte,MG
+T000415,C0083,E008,2025-11-24,Caju Ciclos,Cultura,230.46,Aprovada,Físico,Rio de Janeiro,RJ
+T000416,C0010,E008,2025-10-18,Cartão Multi Benefícios,Refeição,699.28,Aprovada,App,Porto Alegre,RS
+T000417,C0120,E005,2025-04-07,Cartão Multi Benefícios,Refeição,427.24,Aprovada,App,Rio de Janeiro,RJ
+T000418,C0105,E004,2025-06-15,Caju Ciclos,Flex,632.11,Aprovada,Online,Porto Alegre,RS
+T000419,C0151,E008,2026-03-03,Premiações,Flex,733.05,Aprovada,Online,São Paulo,SP
+T000420,C0160,E009,2025-05-21,Despesas Corporativas,Educação,390.41,Aprovada,App,Rio de Janeiro,RJ
+T000421,C0087,E008,2025-12-15,Premiações,Cultura,392.9,Estornada,Online,São Paulo,SP
+T000422,C0199,E010,2025-06-18,Cartão Multi Benefícios,Mobilidade,259.94,Aprovada,Online,Rio de Janeiro,RJ
+T000423,C0133,E006,2025-10-18,Despesas Corporativas,Mobilidade,421.39,Aprovada,App,Belo Horizonte,MG
+T000424,C0003,E008,2025-07-13,Caju Ciclos,Cultura,150.6,Negada,Online,Curitiba,PR
+T000425,C0100,E009,2025-06-05,Caju Ciclos,Alimentação,516.28,Aprovada,Físico,Porto Alegre,RS
+T000426,C0142,E006,2025-06-21,Despesas Corporativas,Alimentação,620.58,Aprovada,Físico,Porto Alegre,RS
+T000427,C0050,E010,2025-05-06,Premiações,Cultura,548.5,Aprovada,Online,Belo Horizonte,MG
+T000428,C0101,E010,2026-01-20,Cartão Multi Benefícios,Alimentação,648.67,Aprovada,App,São Paulo,SP
+T000429,C0058,E001,2025-08-09,Cartão Multi Benefícios,Flex,120.03,Estornada,App,São Paulo,SP
+T000430,C0106,E007,2025-11-07,Premiações,Home Office,22.12,Estornada,Online,Curitiba,PR
+T000431,C0192,E004,2025-11-06,Premiações,Saúde,587.77,Aprovada,App,São Paulo,SP
+T000432,C0098,E007,2025-10-26,Cartão Multi Benefícios,Home Office,701.62,Aprovada,App,Curitiba,PR
+T000433,C0091,E009,2025-08-16,Premiações,Flex,144.93,Aprovada,App,Rio de Janeiro,RJ
+T000434,C0044,E009,2026-02-11,Caju Ciclos,Refeição,193.87,Estornada,App,São Paulo,SP
+T000435,C0182,E002,2025-10-23,Premiações,Mobilidade,162.06,Aprovada,Físico,Curitiba,PR
+T000436,C0025,E008,2025-08-03,Cartão Multi Benefícios,Refeição,198.95,Aprovada,Online,Porto Alegre,RS
+T000437,C0096,E008,2025-10-02,Cartão Multi Benefícios,Cultura,441.23,Aprovada,Físico,Belo Horizonte,MG
+T000438,C0150,E003,2026-02-21,Caju Ciclos,Cultura,99.66,Aprovada,Online,Porto Alegre,RS
+T000439,C0055,E003,2025-09-25,Caju Ciclos,Home Office,752.01,Estornada,Físico,Porto Alegre,RS
+T000440,C0028,E009,2025-11-23,Premiações,Flex,451.38,Aprovada,Físico,Rio de Janeiro,RJ
+T000441,C0087,E009,2026-03-11,Caju Ciclos,Cultura,95.86,Aprovada,Online,Belo Horizonte,MG
+T000442,C0146,E010,2025-08-10,Caju Ciclos,Educação,680.38,Aprovada,Físico,São Paulo,SP
+T000443,C0017,E006,2025-12-11,Caju Ciclos,Educação,572.35,Aprovada,App,Porto Alegre,RS
+T000444,C0058,E003,2025-05-11,Despesas Corporativas,Alimentação,445.14,Aprovada,Físico,Porto Alegre,RS
+T000445,C0091,E002,2025-10-28,Cartão Multi Benefícios,Educação,564.93,Aprovada,Online,Belo Horizonte,MG
+T000446,C0190,E006,2025-11-28,Despesas Corporativas,Educação,523.18,Estornada,App,Curitiba,PR
+T000447,C0006,E005,2025-08-30,Caju Ciclos,Flex,75.72,Aprovada,Físico,Rio de Janeiro,RJ
+T000448,C0104,E010,2025-07-15,Cartão Multi Benefícios,Cultura,787.2,Aprovada,Físico,Belo Horizonte,MG
+T000449,C0140,E001,2026-02-16,Premiações,Saúde,62.07,Aprovada,App,Curitiba,PR
+T000450,C0146,E003,2025-07-16,Caju Ciclos,Saúde,339.94,Aprovada,Físico,Porto Alegre,RS
+T000451,C0101,E009,2025-08-27,Caju Ciclos,Saúde,736.0,Aprovada,App,São Paulo,SP
+T000452,C0083,E008,2025-03-22,Cartão Multi Benefícios,Flex,140.72,Aprovada,App,Curitiba,PR
+T000453,C0054,E005,2025-05-05,Cartão Multi Benefícios,Refeição,292.97,Aprovada,App,Curitiba,PR
+T000454,C0135,E002,2025-06-14,Despesas Corporativas,Flex,75.15,Aprovada,Online,Rio de Janeiro,RJ
+T000455,C0106,E010,2025-03-23,Despesas Corporativas,Educação,270.46,Aprovada,Físico,Porto Alegre,RS
+T000456,C0153,E002,2025-04-30,Premiações,Mobilidade,122.79,Negada,Online,Rio de Janeiro,RJ
+T000457,C0030,E010,2026-01-08,Cartão Multi Benefícios,Home Office,717.03,Aprovada,App,São Paulo,SP
+T000458,C0111,E006,2025-09-21,Premiações,Alimentação,438.6,Aprovada,App,Porto Alegre,RS
+T000459,C0123,E007,2025-06-14,Despesas Corporativas,Home Office,522.27,Aprovada,App,São Paulo,SP
+T000460,C0194,E005,2026-03-05,Caju Ciclos,Flex,190.67,Aprovada,Online,Rio de Janeiro,RJ
+T000461,C0087,E007,2025-07-06,Premiações,Refeição,460.66,Aprovada,Físico,Curitiba,PR
+T000462,C0102,E010,2026-01-05,Cartão Multi Benefícios,Mobilidade,138.11,Aprovada,Online,Curitiba,PR
+T000463,C0071,E006,2026-03-10,Caju Ciclos,Saúde,286.36,Aprovada,Físico,Curitiba,PR
+T000464,C0060,E004,2025-10-28,Caju Ciclos,Mobilidade,721.95,Aprovada,Físico,Curitiba,PR
+T000465,C0115,E007,2025-10-05,Premiações,Mobilidade,456.81,Aprovada,Físico,Porto Alegre,RS
+T000466,C0053,E001,2026-01-02,Despesas Corporativas,Home Office,489.94,Aprovada,Físico,Porto Alegre,RS
+T000467,C0157,E007,2025-09-28,Premiações,Educação,736.1,Aprovada,Físico,Rio de Janeiro,RJ
+T000468,C0081,E002,2025-06-08,Despesas Corporativas,Cultura,143.5,Aprovada,Online,Rio de Janeiro,RJ
+T000469,C0199,E010,2025-07-14,Despesas Corporativas,Cultura,481.96,Aprovada,Físico,Porto Alegre,RS
+T000470,C0125,E001,2025-07-09,Cartão Multi Benefícios,Alimentação,399.11,Aprovada,Físico,Belo Horizonte,MG
+T000471,C0091,E003,2025-04-08,Premiações,Saúde,25.88,Aprovada,Online,Porto Alegre,RS
+T000472,C0065,E007,2025-11-08,Cartão Multi Benefícios,Saúde,95.07,Estornada,Online,Rio de Janeiro,RJ
+T000473,C0060,E001,2026-02-14,Cartão Multi Benefícios,Educação,405.09,Aprovada,Online,Porto Alegre,RS
+T000474,C0101,E002,2025-10-06,Caju Ciclos,Alimentação,534.34,Negada,App,Porto Alegre,RS
+T000475,C0085,E002,2025-10-24,Caju Ciclos,Refeição,291.75,Aprovada,Físico,Belo Horizonte,MG
+T000476,C0057,E009,2025-09-30,Cartão Multi Benefícios,Cultura,244.13,Aprovada,Físico,Belo Horizonte,MG
+T000477,C0178,E008,2025-12-28,Premiações,Saúde,647.07,Aprovada,Físico,Rio de Janeiro,RJ
+T000478,C0197,E001,2025-07-23,Despesas Corporativas,Saúde,541.8,Aprovada,Físico,São Paulo,SP
+T000479,C0022,E006,2025-03-24,Caju Ciclos,Educação,481.81,Estornada,Online,Curitiba,PR
+T000480,C0135,E006,2025-06-05,Caju Ciclos,Mobilidade,587.36,Negada,App,Belo Horizonte,MG
+T000481,C0070,E004,2025-06-20,Caju Ciclos,Refeição,635.99,Aprovada,Online,Rio de Janeiro,RJ
+T000482,C0032,E004,2025-12-30,Premiações,Mobilidade,86.85,Aprovada,App,Curitiba,PR
+T000483,C0111,E005,2026-02-24,Premiações,Educação,70.02,Aprovada,Online,Rio de Janeiro,RJ
+T000484,C0093,E007,2025-05-18,Caju Ciclos,Alimentação,643.21,Aprovada,Online,Rio de Janeiro,RJ
+T000485,C0078,E003,2025-08-06,Caju Ciclos,Alimentação,577.07,Estornada,Físico,Porto Alegre,RS
+T000486,C0074,E009,2025-12-04,Premiações,Cultura,153.93,Aprovada,Físico,Curitiba,PR
+T000487,C0052,E002,2025-09-27,Premiações,Home Office,467.8,Aprovada,Online,São Paulo,SP
+T000488,C0077,E003,2026-02-07,Premiações,Educação,711.05,Aprovada,Online,Curitiba,PR
+T000489,C0029,E001,2026-01-20,Caju Ciclos,Saúde,583.95,Aprovada,Físico,Rio de Janeiro,RJ
+T000490,C0125,E006,2026-02-10,Cartão Multi Benefícios,Cultura,602.23,Aprovada,Online,Porto Alegre,RS
+T000491,C0047,E004,2025-08-28,Premiações,Educação,346.93,Aprovada,App,Porto Alegre,RS
+T000492,C0169,E002,2025-06-07,Despesas Corporativas,Alimentação,174.44,Negada,Online,Porto Alegre,RS
+T000493,C0137,E002,2025-11-26,Cartão Multi Benefícios,Refeição,452.59,Aprovada,Online,Porto Alegre,RS
+T000494,C0187,E004,2025-08-22,Despesas Corporativas,Alimentação,80.53,Estornada,Físico,Curitiba,PR
+T000495,C0035,E008,2025-05-28,Cartão Multi Benefícios,Educação,143.52,Aprovada,App,Porto Alegre,RS
+T000496,C0138,E003,2025-05-10,Caju Ciclos,Home Office,103.44,Aprovada,App,Porto Alegre,RS
+T000497,C0024,E002,2025-06-10,Despesas Corporativas,Home Office,41.6,Aprovada,Físico,Curitiba,PR
+T000498,C0025,E008,2025-09-03,Premiações,Refeição,763.63,Aprovada,Online,Curitiba,PR
+T000499,C0193,E001,2026-02-19,Caju Ciclos,Saúde,80.25,Aprovada,Online,Rio de Janeiro,RJ
+T000500,C0167,E008,2025-10-11,Cartão Multi Benefícios,Saúde,233.82,Aprovada,App,Porto Alegre,RS
+T000501,C0158,E010,2025-06-23,Despesas Corporativas,Saúde,271.73,Estornada,Físico,Curitiba,PR
+T000502,C0187,E006,2026-02-23,Caju Ciclos,Refeição,514.26,Aprovada,Físico,Belo Horizonte,MG
+T000503,C0129,E005,2025-04-11,Caju Ciclos,Alimentação,431.81,Aprovada,App,Curitiba,PR
+T000504,C0052,E004,2026-01-29,Premiações,Flex,514.64,Aprovada,App,Porto Alegre,RS
+T000505,C0196,E001,2026-02-20,Despesas Corporativas,Alimentação,254.27,Aprovada,Físico,Rio de Janeiro,RJ
+T000506,C0198,E007,2025-08-13,Caju Ciclos,Refeição,447.18,Aprovada,Online,Curitiba,PR
+T000507,C0075,E009,2026-02-01,Cartão Multi Benefícios,Cultura,556.43,Aprovada,App,São Paulo,SP
+T000508,C0094,E008,2025-05-19,Cartão Multi Benefícios,Flex,397.37,Aprovada,Online,Curitiba,PR
+T000509,C0018,E004,2025-07-02,Cartão Multi Benefícios,Alimentação,232.1,Aprovada,App,Belo Horizonte,MG
+T000510,C0002,E010,2025-06-05,Premiações,Flex,335.83,Aprovada,App,Belo Horizonte,MG
+T000511,C0050,E010,2025-12-14,Despesas Corporativas,Saúde,216.01,Aprovada,Online,Rio de Janeiro,RJ
+T000512,C0015,E003,2025-04-10,Despesas Corporativas,Educação,103.92,Negada,Físico,São Paulo,SP
+T000513,C0002,E009,2026-02-01,Cartão Multi Benefícios,Educação,106.11,Aprovada,Online,Curitiba,PR
+T000514,C0164,E004,2025-09-13,Despesas Corporativas,Flex,742.99,Negada,Online,São Paulo,SP
+T000515,C0072,E006,2025-12-28,Despesas Corporativas,Home Office,194.96,Aprovada,Online,Porto Alegre,RS
+T000516,C0029,E009,2025-10-03,Premiações,Refeição,435.98,Aprovada,Online,Belo Horizonte,MG
+T000517,C0151,E010,2026-02-25,Cartão Multi Benefícios,Flex,247.45,Aprovada,App,Porto Alegre,RS
+T000518,C0137,E001,2025-10-15,Premiações,Mobilidade,529.84,Aprovada,App,Belo Horizonte,MG
+T000519,C0027,E007,2025-08-02,Despesas Corporativas,Mobilidade,608.48,Aprovada,Online,Porto Alegre,RS
+T000520,C0018,E006,2025-10-14,Despesas Corporativas,Educação,344.25,Aprovada,App,Belo Horizonte,MG
+T000521,C0165,E004,2025-10-15,Cartão Multi Benefícios,Mobilidade,767.04,Aprovada,Online,Curitiba,PR
+T000522,C0100,E004,2025-09-18,Premiações,Alimentação,76.9,Aprovada,Online,São Paulo,SP
+T000523,C0172,E007,2025-03-23,Caju Ciclos,Refeição,147.99,Aprovada,App,Porto Alegre,RS
+T000524,C0032,E005,2025-09-14,Premiações,Mobilidade,327.7,Aprovada,App,Belo Horizonte,MG
+T000525,C0002,E009,2025-03-30,Premiações,Home Office,232.09,Aprovada,App,Rio de Janeiro,RJ
+T000526,C0039,E008,2025-06-23,Despesas Corporativas,Flex,585.04,Aprovada,Físico,Curitiba,PR
+T000527,C0029,E004,2025-11-15,Cartão Multi Benefícios,Alimentação,659.37,Aprovada,Físico,São Paulo,SP
+T000528,C0041,E010,2025-08-11,Despesas Corporativas,Refeição,727.6,Aprovada,Físico,São Paulo,SP
+T000529,C0046,E003,2026-02-21,Despesas Corporativas,Refeição,37.6,Aprovada,Online,Rio de Janeiro,RJ
+T000530,C0122,E004,2025-03-31,Cartão Multi Benefícios,Saúde,757.1,Aprovada,App,Curitiba,PR
+T000531,C0110,E003,2025-09-15,Cartão Multi Benefícios,Refeição,582.24,Aprovada,Online,Belo Horizonte,MG
+T000532,C0130,E009,2025-03-26,Despesas Corporativas,Mobilidade,295.54,Aprovada,Online,Rio de Janeiro,RJ
+T000533,C0126,E003,2025-04-15,Caju Ciclos,Flex,266.82,Aprovada,App,Curitiba,PR
+T000534,C0141,E009,2025-11-25,Caju Ciclos,Alimentação,257.17,Aprovada,App,São Paulo,SP
+T000535,C0130,E008,2026-02-01,Premiações,Educação,534.78,Aprovada,Físico,Porto Alegre,RS
+T000536,C0175,E004,2025-08-02,Cartão Multi Benefícios,Educação,440.41,Estornada,Físico,Curitiba,PR
+T000537,C0200,E010,2025-06-16,Cartão Multi Benefícios,Home Office,563.86,Aprovada,Físico,Porto Alegre,RS
+T000538,C0159,E006,2025-04-05,Caju Ciclos,Home Office,140.39,Aprovada,Físico,São Paulo,SP
+T000539,C0157,E008,2025-07-17,Cartão Multi Benefícios,Home Office,600.62,Aprovada,App,Porto Alegre,RS
+T000540,C0193,E008,2025-12-26,Cartão Multi Benefícios,Flex,276.3,Aprovada,App,São Paulo,SP
+T000541,C0107,E003,2025-07-25,Cartão Multi Benefícios,Educação,36.81,Aprovada,Físico,Belo Horizonte,MG
+T000542,C0035,E010,2025-04-26,Premiações,Home Office,415.98,Aprovada,Online,Belo Horizonte,MG
+T000543,C0145,E008,2025-05-24,Caju Ciclos,Flex,379.87,Aprovada,Físico,Belo Horizonte,MG
+T000544,C0089,E005,2025-09-09,Despesas Corporativas,Saúde,543.44,Aprovada,Físico,Rio de Janeiro,RJ
+T000545,C0011,E007,2025-10-30,Premiações,Mobilidade,705.02,Aprovada,Físico,Porto Alegre,RS
+T000546,C0018,E006,2025-05-09,Caju Ciclos,Cultura,322.73,Estornada,App,Rio de Janeiro,RJ
+T000547,C0028,E007,2025-07-31,Premiações,Saúde,142.45,Aprovada,Online,Porto Alegre,RS
+T000548,C0069,E007,2025-04-27,Despesas Corporativas,Alimentação,758.02,Aprovada,Físico,Curitiba,PR
+T000549,C0038,E006,2026-01-26,Cartão Multi Benefícios,Educação,39.71,Aprovada,Online,São Paulo,SP
+T000550,C0034,E003,2026-01-08,Premiações,Refeição,749.05,Aprovada,Físico,Rio de Janeiro,RJ
+T000551,C0158,E006,2025-11-01,Caju Ciclos,Alimentação,309.9,Aprovada,Online,Belo Horizonte,MG
+T000552,C0151,E004,2025-06-14,Cartão Multi Benefícios,Cultura,235.68,Negada,App,Porto Alegre,RS
+T000553,C0127,E008,2026-02-06,Cartão Multi Benefícios,Home Office,160.6,Aprovada,Físico,São Paulo,SP
+T000554,C0026,E004,2025-12-03,Premiações,Mobilidade,60.98,Aprovada,Físico,São Paulo,SP
+T000555,C0052,E002,2026-01-21,Despesas Corporativas,Home Office,278.12,Aprovada,Físico,Belo Horizonte,MG
+T000556,C0095,E010,2025-08-02,Caju Ciclos,Cultura,165.61,Aprovada,Online,Curitiba,PR
+T000557,C0114,E003,2026-01-09,Despesas Corporativas,Refeição,107.8,Aprovada,Online,Curitiba,PR
+T000558,C0001,E003,2025-09-25,Premiações,Saúde,724.05,Aprovada,Online,São Paulo,SP
+T000559,C0061,E002,2025-07-04,Caju Ciclos,Home Office,314.12,Aprovada,App,Rio de Janeiro,RJ
+T000560,C0171,E001,2025-03-18,Caju Ciclos,Cultura,248.45,Aprovada,App,São Paulo,SP
+T000561,C0162,E005,2025-07-05,Cartão Multi Benefícios,Educação,271.24,Aprovada,App,Rio de Janeiro,RJ
+T000562,C0110,E007,2026-01-25,Caju Ciclos,Alimentação,149.41,Aprovada,App,Belo Horizonte,MG
+T000563,C0035,E004,2025-05-16,Cartão Multi Benefícios,Flex,746.03,Aprovada,Físico,Rio de Janeiro,RJ
+T000564,C0053,E008,2025-06-07,Caju Ciclos,Educação,398.31,Aprovada,Online,Porto Alegre,RS
+T000565,C0107,E006,2025-07-29,Cartão Multi Benefícios,Flex,559.66,Aprovada,Físico,São Paulo,SP
+T000566,C0039,E004,2025-04-10,Premiações,Refeição,128.0,Aprovada,Online,Rio de Janeiro,RJ
+T000567,C0126,E010,2026-02-20,Despesas Corporativas,Refeição,419.63,Aprovada,Físico,Curitiba,PR
+T000568,C0178,E008,2025-11-18,Caju Ciclos,Saúde,166.67,Estornada,Físico,Porto Alegre,RS
+T000569,C0102,E004,2025-06-20,Cartão Multi Benefícios,Home Office,473.81,Aprovada,Físico,Porto Alegre,RS
+T000570,C0033,E003,2026-03-12,Cartão Multi Benefícios,Educação,231.12,Aprovada,Online,Belo Horizonte,MG
+T000571,C0073,E003,2025-08-18,Premiações,Home Office,694.91,Aprovada,Físico,Curitiba,PR
+T000572,C0151,E005,2025-06-10,Despesas Corporativas,Flex,728.36,Negada,Físico,Belo Horizonte,MG
+T000573,C0020,E002,2025-04-14,Caju Ciclos,Home Office,76.34,Aprovada,Online,Porto Alegre,RS
+T000574,C0098,E001,2025-12-11,Cartão Multi Benefícios,Refeição,175.46,Aprovada,Físico,Belo Horizonte,MG
+T000575,C0130,E004,2025-05-03,Despesas Corporativas,Mobilidade,188.3,Aprovada,Físico,Porto Alegre,RS
+T000576,C0155,E001,2025-06-14,Caju Ciclos,Cultura,586.07,Aprovada,Online,Curitiba,PR
+T000577,C0177,E001,2025-12-13,Cartão Multi Benefícios,Alimentação,213.98,Aprovada,Físico,São Paulo,SP
+T000578,C0117,E005,2025-08-23,Despesas Corporativas,Cultura,91.99,Aprovada,Físico,Porto Alegre,RS
+T000579,C0146,E008,2025-12-19,Premiações,Home Office,552.54,Aprovada,Físico,São Paulo,SP
+T000580,C0162,E001,2025-06-18,Caju Ciclos,Home Office,92.47,Aprovada,App,Porto Alegre,RS
+T000581,C0171,E001,2025-10-25,Premiações,Refeição,545.79,Aprovada,Online,Curitiba,PR
+T000582,C0138,E006,2026-03-01,Premiações,Flex,485.25,Aprovada,Físico,Curitiba,PR
+T000583,C0008,E005,2025-09-20,Cartão Multi Benefícios,Alimentação,654.31,Aprovada,App,Belo Horizonte,MG
+T000584,C0164,E010,2026-03-11,Caju Ciclos,Saúde,272.91,Aprovada,Físico,Porto Alegre,RS
+T000585,C0187,E001,2025-11-16,Despesas Corporativas,Cultura,745.54,Aprovada,Físico,Rio de Janeiro,RJ
+T000586,C0110,E006,2025-06-18,Despesas Corporativas,Educação,744.61,Aprovada,App,Rio de Janeiro,RJ
+T000587,C0022,E010,2026-03-04,Despesas Corporativas,Mobilidade,637.21,Aprovada,App,Rio de Janeiro,RJ
+T000588,C0077,E005,2025-10-11,Premiações,Home Office,639.03,Aprovada,App,Porto Alegre,RS
+T000589,C0130,E002,2025-08-28,Cartão Multi Benefícios,Flex,745.93,Aprovada,App,São Paulo,SP
+T000590,C0181,E004,2025-12-25,Cartão Multi Benefícios,Saúde,762.98,Aprovada,Físico,São Paulo,SP
+T000591,C0157,E009,2025-11-14,Despesas Corporativas,Home Office,288.79,Aprovada,Físico,São Paulo,SP
+T000592,C0171,E009,2025-04-01,Despesas Corporativas,Alimentação,593.86,Aprovada,App,Porto Alegre,RS
+T000593,C0014,E008,2025-11-21,Premiações,Refeição,522.04,Aprovada,App,Belo Horizonte,MG
+T000594,C0004,E003,2025-11-05,Despesas Corporativas,Educação,427.66,Aprovada,Online,Porto Alegre,RS
+T000595,C0149,E006,2025-06-19,Premiações,Cultura,589.81,Negada,Físico,Rio de Janeiro,RJ
+T000596,C0150,E002,2025-03-27,Premiações,Flex,566.25,Aprovada,Online,Belo Horizonte,MG
+T000597,C0129,E009,2025-04-24,Cartão Multi Benefícios,Alimentação,565.5,Aprovada,App,Porto Alegre,RS
+T000598,C0052,E008,2026-01-03,Premiações,Educação,595.1,Negada,App,São Paulo,SP
+T000599,C0172,E003,2026-01-30,Cartão Multi Benefícios,Saúde,62.98,Aprovada,Físico,Curitiba,PR
+T000600,C0090,E006,2025-12-21,Despesas Corporativas,Flex,351.93,Aprovada,Físico,São Paulo,SP
+T000601,C0056,E004,2026-02-12,Despesas Corporativas,Home Office,133.48,Aprovada,Online,Belo Horizonte,MG
+T000602,C0001,E001,2025-08-14,Caju Ciclos,Saúde,17.69,Aprovada,Online,São Paulo,SP
+T000603,C0187,E004,2025-06-10,Despesas Corporativas,Educação,250.68,Aprovada,Físico,Porto Alegre,RS
+T000604,C0115,E007,2025-04-23,Premiações,Cultura,178.98,Aprovada,App,Rio de Janeiro,RJ
+T000605,C0121,E005,2026-02-02,Cartão Multi Benefícios,Refeição,577.14,Aprovada,Online,Rio de Janeiro,RJ
+T000606,C0120,E005,2026-02-19,Caju Ciclos,Refeição,108.71,Aprovada,Físico,Belo Horizonte,MG
+T000607,C0064,E004,2025-05-02,Caju Ciclos,Alimentação,301.15,Aprovada,Online,Rio de Janeiro,RJ
+T000608,C0088,E009,2025-04-23,Cartão Multi Benefícios,Alimentação,109.02,Aprovada,Online,Porto Alegre,RS
+T000609,C0126,E003,2026-02-14,Caju Ciclos,Cultura,107.64,Aprovada,App,Curitiba,PR
+T000610,C0155,E004,2025-12-29,Despesas Corporativas,Educação,6.56,Aprovada,App,Porto Alegre,RS
+T000611,C0010,E004,2025-03-19,Caju Ciclos,Cultura,405.58,Negada,Online,Curitiba,PR
+T000612,C0137,E003,2025-04-23,Caju Ciclos,Cultura,103.09,Aprovada,Físico,Porto Alegre,RS
+T000613,C0200,E007,2025-10-20,Premiações,Educação,486.91,Aprovada,App,Curitiba,PR
+T000614,C0056,E006,2025-06-21,Caju Ciclos,Mobilidade,361.41,Aprovada,Físico,Belo Horizonte,MG
+T000615,C0135,E007,2025-04-25,Cartão Multi Benefícios,Home Office,670.08,Aprovada,App,Curitiba,PR
+T000616,C0136,E007,2025-05-23,Premiações,Cultura,695.94,Negada,Online,Belo Horizonte,MG
+T000617,C0063,E006,2025-12-20,Despesas Corporativas,Saúde,328.16,Aprovada,Físico,Porto Alegre,RS
+T000618,C0046,E008,2025-10-21,Caju Ciclos,Cultura,732.52,Aprovada,Físico,Rio de Janeiro,RJ
+T000619,C0106,E008,2025-07-28,Cartão Multi Benefícios,Home Office,798.39,Aprovada,Online,Curitiba,PR
+T000620,C0104,E009,2025-03-23,Premiações,Refeição,688.3,Aprovada,Físico,Porto Alegre,RS
+T000621,C0052,E003,2025-03-30,Caju Ciclos,Alimentação,592.7,Aprovada,Físico,Porto Alegre,RS
+T000622,C0113,E008,2026-03-08,Caju Ciclos,Flex,647.46,Aprovada,App,Porto Alegre,RS
+T000623,C0120,E010,2025-06-20,Caju Ciclos,Mobilidade,647.94,Aprovada,App,São Paulo,SP
+T000624,C0190,E010,2025-09-14,Premiações,Cultura,334.17,Negada,Online,Belo Horizonte,MG
+T000625,C0158,E003,2026-02-07,Premiações,Saúde,429.4,Aprovada,Físico,Belo Horizonte,MG
+T000626,C0156,E003,2025-05-09,Premiações,Home Office,141.21,Aprovada,App,Curitiba,PR
+T000627,C0151,E008,2026-02-05,Despesas Corporativas,Home Office,527.51,Aprovada,App,Curitiba,PR
+T000628,C0124,E005,2025-05-03,Premiações,Educação,117.61,Aprovada,App,São Paulo,SP
+T000629,C0148,E002,2025-09-10,Caju Ciclos,Alimentação,126.91,Negada,Físico,Porto Alegre,RS
+T000630,C0003,E007,2025-07-26,Caju Ciclos,Flex,709.97,Aprovada,Físico,Curitiba,PR
+T000631,C0036,E009,2026-02-25,Premiações,Educação,454.56,Aprovada,App,Rio de Janeiro,RJ
+T000632,C0015,E007,2025-05-04,Caju Ciclos,Refeição,11.11,Aprovada,Online,Curitiba,PR
+T000633,C0047,E002,2025-07-16,Caju Ciclos,Alimentação,477.09,Aprovada,App,Curitiba,PR
+T000634,C0002,E007,2025-12-26,Despesas Corporativas,Alimentação,567.21,Aprovada,App,Curitiba,PR
+T000635,C0138,E007,2025-06-21,Cartão Multi Benefícios,Flex,568.94,Aprovada,App,Belo Horizonte,MG
+T000636,C0003,E003,2025-09-26,Caju Ciclos,Alimentação,233.66,Aprovada,Físico,Curitiba,PR
+T000637,C0115,E005,2025-10-15,Premiações,Saúde,553.67,Aprovada,Online,São Paulo,SP
+T000638,C0005,E008,2025-06-09,Caju Ciclos,Alimentação,43.33,Aprovada,App,Rio de Janeiro,RJ
+T000639,C0128,E007,2025-06-27,Cartão Multi Benefícios,Refeição,76.07,Negada,Físico,Porto Alegre,RS
+T000640,C0173,E007,2026-01-20,Despesas Corporativas,Saúde,158.83,Aprovada,Físico,Curitiba,PR
+T000641,C0058,E008,2026-03-06,Cartão Multi Benefícios,Educação,228.76,Aprovada,Online,São Paulo,SP
+T000642,C0032,E004,2026-03-04,Caju Ciclos,Refeição,73.34,Aprovada,Online,Porto Alegre,RS
+T000643,C0159,E007,2025-07-24,Cartão Multi Benefícios,Cultura,147.79,Aprovada,Físico,Curitiba,PR
+T000644,C0182,E009,2025-07-17,Despesas Corporativas,Alimentação,57.99,Aprovada,Online,São Paulo,SP
+T000645,C0045,E004,2025-11-02,Premiações,Refeição,598.61,Aprovada,App,São Paulo,SP
+T000646,C0080,E005,2025-11-20,Premiações,Saúde,689.45,Aprovada,Online,Curitiba,PR
+T000647,C0023,E004,2026-01-20,Cartão Multi Benefícios,Mobilidade,424.7,Aprovada,Online,Porto Alegre,RS
+T000648,C0110,E001,2026-02-06,Despesas Corporativas,Flex,259.58,Aprovada,App,Belo Horizonte,MG
+T000649,C0053,E005,2025-05-17,Premiações,Home Office,32.79,Aprovada,Online,Porto Alegre,RS
+T000650,C0021,E008,2026-01-20,Cartão Multi Benefícios,Cultura,19.41,Aprovada,Físico,São Paulo,SP
+T000651,C0191,E010,2026-02-13,Cartão Multi Benefícios,Alimentação,148.42,Aprovada,Físico,Porto Alegre,RS
+T000652,C0055,E001,2025-12-28,Caju Ciclos,Flex,475.89,Aprovada,Físico,Curitiba,PR
+T000653,C0156,E002,2025-04-14,Cartão Multi Benefícios,Flex,419.32,Negada,App,Belo Horizonte,MG
+T000654,C0028,E007,2025-08-12,Despesas Corporativas,Refeição,451.68,Negada,App,Porto Alegre,RS
+T000655,C0057,E005,2025-10-06,Despesas Corporativas,Home Office,764.0,Aprovada,Físico,Curitiba,PR
+T000656,C0036,E005,2025-11-10,Cartão Multi Benefícios,Refeição,352.24,Aprovada,Online,São Paulo,SP
+T000657,C0190,E002,2025-11-08,Premiações,Educação,524.98,Aprovada,Online,Curitiba,PR
+T000658,C0042,E003,2025-05-20,Cartão Multi Benefícios,Flex,553.61,Aprovada,App,Belo Horizonte,MG
+T000659,C0048,E001,2025-10-25,Despesas Corporativas,Cultura,586.21,Negada,Online,São Paulo,SP
+T000660,C0166,E005,2025-09-23,Premiações,Educação,310.48,Aprovada,App,Rio de Janeiro,RJ
+T000661,C0115,E008,2025-09-09,Caju Ciclos,Saúde,653.24,Negada,Físico,Porto Alegre,RS
+T000662,C0138,E010,2025-06-26,Premiações,Cultura,614.53,Aprovada,Online,Rio de Janeiro,RJ
+T000663,C0131,E008,2025-07-16,Despesas Corporativas,Flex,89.97,Aprovada,Físico,Porto Alegre,RS
+T000664,C0011,E007,2025-12-21,Caju Ciclos,Cultura,314.95,Aprovada,App,Porto Alegre,RS
+T000665,C0190,E007,2025-11-29,Caju Ciclos,Refeição,515.88,Aprovada,Físico,Curitiba,PR
+T000666,C0001,E004,2025-12-05,Premiações,Flex,668.77,Aprovada,Físico,Curitiba,PR
+T000667,C0037,E004,2025-11-19,Cartão Multi Benefícios,Alimentação,181.67,Aprovada,Físico,Curitiba,PR
+T000668,C0195,E007,2025-05-03,Caju Ciclos,Flex,496.24,Aprovada,App,São Paulo,SP
+T000669,C0098,E006,2026-01-06,Cartão Multi Benefícios,Home Office,157.2,Aprovada,Online,Belo Horizonte,MG
+T000670,C0030,E005,2025-05-28,Cartão Multi Benefícios,Saúde,738.65,Aprovada,App,Curitiba,PR
+T000671,C0170,E005,2026-01-01,Cartão Multi Benefícios,Alimentação,26.31,Aprovada,Físico,Belo Horizonte,MG
+T000672,C0037,E002,2025-03-16,Cartão Multi Benefícios,Educação,766.59,Aprovada,Online,Rio de Janeiro,RJ
+T000673,C0169,E003,2025-08-30,Premiações,Flex,191.11,Aprovada,Online,Curitiba,PR
+T000674,C0037,E004,2026-01-26,Premiações,Mobilidade,528.54,Aprovada,App,Porto Alegre,RS
+T000675,C0064,E007,2025-08-30,Premiações,Home Office,567.13,Aprovada,Físico,Curitiba,PR
+T000676,C0008,E002,2025-10-24,Premiações,Mobilidade,198.03,Aprovada,App,São Paulo,SP
+T000677,C0013,E001,2025-09-15,Caju Ciclos,Alimentação,546.93,Aprovada,App,Porto Alegre,RS
+T000678,C0004,E009,2025-05-09,Cartão Multi Benefícios,Alimentação,578.63,Aprovada,App,Rio de Janeiro,RJ
+T000679,C0183,E005,2026-02-18,Cartão Multi Benefícios,Refeição,458.83,Aprovada,Online,Belo Horizonte,MG
+T000680,C0092,E008,2025-08-17,Caju Ciclos,Mobilidade,25.81,Aprovada,Online,Rio de Janeiro,RJ
+T000681,C0105,E004,2025-09-16,Caju Ciclos,Home Office,790.8,Aprovada,App,São Paulo,SP
+T000682,C0114,E002,2025-07-24,Premiações,Home Office,461.55,Aprovada,Físico,Belo Horizonte,MG
+T000683,C0039,E008,2025-08-04,Despesas Corporativas,Alimentação,601.61,Aprovada,Físico,São Paulo,SP
+T000684,C0060,E006,2025-09-19,Despesas Corporativas,Flex,799.02,Aprovada,Físico,São Paulo,SP
+T000685,C0104,E003,2025-07-11,Despesas Corporativas,Home Office,739.95,Aprovada,App,Belo Horizonte,MG
+T000686,C0170,E007,2025-05-26,Caju Ciclos,Educação,170.31,Aprovada,Físico,Curitiba,PR
+T000687,C0048,E009,2025-07-10,Despesas Corporativas,Alimentação,517.05,Negada,Online,Rio de Janeiro,RJ
+T000688,C0054,E006,2025-04-20,Caju Ciclos,Refeição,781.04,Negada,App,Curitiba,PR
+T000689,C0116,E005,2025-12-28,Cartão Multi Benefícios,Educação,298.94,Negada,Online,Curitiba,PR
+T000690,C0199,E006,2025-11-17,Caju Ciclos,Educação,134.42,Aprovada,App,São Paulo,SP
+T000691,C0066,E007,2025-07-16,Despesas Corporativas,Home Office,473.37,Aprovada,Físico,Rio de Janeiro,RJ
+T000692,C0034,E002,2025-04-15,Despesas Corporativas,Refeição,700.78,Estornada,Físico,Belo Horizonte,MG
+T000693,C0040,E005,2025-07-09,Premiações,Cultura,431.78,Aprovada,Físico,São Paulo,SP
+T000694,C0043,E007,2025-12-25,Caju Ciclos,Refeição,37.41,Aprovada,Online,Rio de Janeiro,RJ
+T000695,C0005,E002,2025-10-08,Cartão Multi Benefícios,Saúde,733.23,Aprovada,App,Curitiba,PR
+T000696,C0196,E002,2026-02-07,Premiações,Refeição,61.62,Aprovada,Online,Porto Alegre,RS
+T000697,C0060,E006,2026-01-25,Caju Ciclos,Alimentação,346.43,Aprovada,App,São Paulo,SP
+T000698,C0104,E008,2026-01-05,Caju Ciclos,Educação,94.93,Aprovada,Físico,Curitiba,PR
+T000699,C0083,E004,2025-04-30,Premiações,Saúde,572.52,Aprovada,Físico,Belo Horizonte,MG
+T000700,C0097,E009,2025-11-01,Despesas Corporativas,Educação,388.57,Aprovada,Online,São Paulo,SP
+T000701,C0011,E003,2025-06-04,Cartão Multi Benefícios,Alimentação,314.9,Aprovada,Físico,São Paulo,SP
+T000702,C0104,E008,2026-02-24,Premiações,Educação,552.37,Aprovada,Físico,Curitiba,PR
+T000703,C0093,E001,2025-04-19,Despesas Corporativas,Educação,82.57,Aprovada,App,Porto Alegre,RS
+T000704,C0189,E003,2025-06-26,Premiações,Mobilidade,540.98,Aprovada,App,Belo Horizonte,MG
+T000705,C0064,E008,2025-09-25,Caju Ciclos,Educação,535.97,Aprovada,Físico,Rio de Janeiro,RJ
+T000706,C0110,E003,2025-03-26,Cartão Multi Benefícios,Home Office,520.95,Aprovada,App,Curitiba,PR
+T000707,C0122,E008,2026-01-18,Premiações,Cultura,157.82,Aprovada,Físico,Porto Alegre,RS
+T000708,C0006,E009,2025-04-05,Caju Ciclos,Mobilidade,629.93,Aprovada,App,Porto Alegre,RS
+T000709,C0070,E008,2026-02-09,Caju Ciclos,Educação,684.44,Aprovada,App,Curitiba,PR
+T000710,C0006,E008,2025-09-02,Despesas Corporativas,Cultura,710.7,Aprovada,Online,São Paulo,SP
+T000711,C0072,E003,2025-07-29,Caju Ciclos,Alimentação,306.51,Aprovada,Físico,Curitiba,PR
+T000712,C0160,E001,2025-09-25,Caju Ciclos,Refeição,760.9,Aprovada,App,Curitiba,PR
+T000713,C0038,E010,2025-05-26,Despesas Corporativas,Alimentação,106.17,Aprovada,Online,Curitiba,PR
+T000714,C0060,E010,2025-12-02,Caju Ciclos,Saúde,568.54,Aprovada,Online,Curitiba,PR
+T000715,C0051,E003,2025-04-04,Despesas Corporativas,Flex,688.05,Aprovada,Online,Belo Horizonte,MG
+T000716,C0148,E002,2025-11-01,Caju Ciclos,Mobilidade,362.5,Aprovada,Físico,Porto Alegre,RS
+T000717,C0126,E003,2026-01-30,Despesas Corporativas,Flex,194.98,Aprovada,Online,Rio de Janeiro,RJ
+T000718,C0102,E003,2025-03-30,Despesas Corporativas,Mobilidade,323.73,Aprovada,Online,Porto Alegre,RS
+T000719,C0080,E002,2025-10-27,Cartão Multi Benefícios,Mobilidade,652.92,Aprovada,Online,Belo Horizonte,MG
+T000720,C0009,E001,2025-07-29,Caju Ciclos,Educação,547.85,Negada,Online,Belo Horizonte,MG
+T000721,C0119,E001,2025-05-30,Cartão Multi Benefícios,Mobilidade,165.91,Aprovada,Online,Porto Alegre,RS
+T000722,C0053,E008,2025-10-12,Premiações,Mobilidade,736.22,Aprovada,App,Porto Alegre,RS
+T000723,C0164,E004,2026-02-28,Premiações,Mobilidade,343.55,Negada,App,Belo Horizonte,MG
+T000724,C0134,E006,2025-08-05,Caju Ciclos,Saúde,109.87,Aprovada,App,Belo Horizonte,MG
+T000725,C0052,E010,2025-12-17,Despesas Corporativas,Refeição,694.88,Aprovada,Online,Curitiba,PR
+T000726,C0045,E002,2025-10-19,Caju Ciclos,Home Office,483.94,Aprovada,Online,Porto Alegre,RS
+T000727,C0004,E005,2026-01-01,Premiações,Educação,748.67,Aprovada,App,Porto Alegre,RS
+T000728,C0101,E003,2025-05-31,Premiações,Cultura,182.45,Aprovada,App,São Paulo,SP
+T000729,C0050,E005,2026-01-18,Premiações,Cultura,500.15,Aprovada,Físico,Curitiba,PR
+T000730,C0056,E006,2025-06-28,Cartão Multi Benefícios,Flex,638.21,Negada,Físico,Rio de Janeiro,RJ
+T000731,C0085,E008,2025-09-05,Premiações,Mobilidade,777.96,Aprovada,Online,Belo Horizonte,MG
+T000732,C0079,E007,2026-01-13,Premiações,Flex,623.78,Aprovada,Online,Belo Horizonte,MG
+T000733,C0049,E005,2025-08-30,Caju Ciclos,Cultura,472.15,Aprovada,Online,Porto Alegre,RS
+T000734,C0131,E010,2026-01-20,Premiações,Flex,476.11,Aprovada,Físico,Belo Horizonte,MG
+T000735,C0095,E007,2025-08-15,Despesas Corporativas,Cultura,325.02,Aprovada,Online,Belo Horizonte,MG
+T000736,C0091,E007,2026-03-07,Caju Ciclos,Mobilidade,134.26,Aprovada,Online,Rio de Janeiro,RJ
+T000737,C0049,E005,2025-07-28,Cartão Multi Benefícios,Home Office,94.32,Aprovada,Online,Rio de Janeiro,RJ
+T000738,C0094,E008,2025-12-25,Caju Ciclos,Refeição,729.84,Aprovada,App,Rio de Janeiro,RJ
+T000739,C0122,E004,2025-04-08,Cartão Multi Benefícios,Saúde,779.08,Aprovada,App,Curitiba,PR
+T000740,C0007,E010,2025-06-18,Despesas Corporativas,Flex,767.35,Aprovada,Online,Rio de Janeiro,RJ
+T000741,C0085,E006,2025-05-28,Premiações,Cultura,460.67,Aprovada,App,Porto Alegre,RS
+T000742,C0173,E003,2025-07-18,Premiações,Cultura,408.37,Aprovada,App,Curitiba,PR
+T000743,C0146,E001,2025-09-19,Cartão Multi Benefícios,Mobilidade,482.85,Aprovada,Físico,São Paulo,SP
+T000744,C0025,E009,2025-04-03,Caju Ciclos,Educação,471.01,Aprovada,Físico,Curitiba,PR
+T000745,C0075,E006,2025-07-27,Caju Ciclos,Mobilidade,595.69,Aprovada,Físico,Porto Alegre,RS
+T000746,C0147,E010,2025-06-20,Premiações,Home Office,609.21,Aprovada,Físico,São Paulo,SP
+T000747,C0153,E010,2026-01-25,Cartão Multi Benefícios,Educação,29.13,Aprovada,Online,Porto Alegre,RS
+T000748,C0028,E009,2026-01-18,Despesas Corporativas,Mobilidade,156.42,Aprovada,Online,Rio de Janeiro,RJ
+T000749,C0135,E009,2025-11-02,Caju Ciclos,Educação,52.63,Aprovada,Físico,Curitiba,PR
+T000750,C0182,E008,2025-09-07,Premiações,Alimentação,379.52,Negada,App,Porto Alegre,RS
+T000751,C0103,E004,2025-03-18,Cartão Multi Benefícios,Home Office,441.4,Aprovada,Online,Porto Alegre,RS
+T000752,C0130,E001,2025-05-05,Premiações,Cultura,504.45,Aprovada,App,São Paulo,SP
+T000753,C0069,E005,2025-12-24,Despesas Corporativas,Alimentação,100.08,Aprovada,App,Porto Alegre,RS
+T000754,C0178,E005,2025-05-21,Despesas Corporativas,Flex,139.23,Aprovada,Físico,São Paulo,SP
+T000755,C0084,E002,2026-03-03,Despesas Corporativas,Cultura,745.37,Aprovada,App,São Paulo,SP
+T000756,C0139,E004,2026-01-07,Caju Ciclos,Cultura,753.97,Aprovada,Físico,Belo Horizonte,MG
+T000757,C0185,E009,2026-03-08,Caju Ciclos,Flex,233.06,Aprovada,Online,Curitiba,PR
+T000758,C0067,E008,2025-07-14,Cartão Multi Benefícios,Refeição,161.14,Negada,Online,São Paulo,SP
+T000759,C0131,E001,2025-08-09,Caju Ciclos,Flex,323.93,Aprovada,Físico,Curitiba,PR
+T000760,C0149,E001,2025-06-21,Cartão Multi Benefícios,Refeição,489.43,Aprovada,App,Belo Horizonte,MG
+T000761,C0160,E008,2025-05-09,Premiações,Educação,38.33,Aprovada,App,Curitiba,PR
+T000762,C0121,E008,2025-10-17,Caju Ciclos,Home Office,662.88,Estornada,Online,Curitiba,PR
+T000763,C0052,E005,2025-05-04,Despesas Corporativas,Mobilidade,771.62,Negada,App,Curitiba,PR
+T000764,C0183,E001,2026-01-28,Cartão Multi Benefícios,Flex,469.35,Aprovada,Físico,Belo Horizonte,MG
+T000765,C0159,E010,2025-04-17,Despesas Corporativas,Educação,55.57,Aprovada,Físico,Curitiba,PR
+T000766,C0174,E008,2025-04-14,Caju Ciclos,Cultura,744.77,Aprovada,Online,Curitiba,PR
+T000767,C0088,E008,2025-11-11,Cartão Multi Benefícios,Alimentação,652.63,Aprovada,Online,Porto Alegre,RS
+T000768,C0037,E005,2026-01-30,Premiações,Refeição,468.99,Negada,App,Curitiba,PR
+T000769,C0018,E004,2025-08-10,Despesas Corporativas,Educação,280.37,Aprovada,App,São Paulo,SP
+T000770,C0045,E006,2025-05-26,Premiações,Mobilidade,545.8,Aprovada,Físico,Belo Horizonte,MG
+T000771,C0086,E007,2026-02-16,Premiações,Educação,186.88,Negada,App,Rio de Janeiro,RJ
+T000772,C0093,E003,2025-06-24,Caju Ciclos,Educação,170.29,Aprovada,App,Curitiba,PR
+T000773,C0029,E005,2025-05-22,Despesas Corporativas,Educação,752.15,Aprovada,Físico,Curitiba,PR
+T000774,C0162,E004,2026-03-06,Caju Ciclos,Educação,92.77,Negada,Físico,Porto Alegre,RS
+T000775,C0045,E002,2025-04-08,Despesas Corporativas,Mobilidade,654.78,Aprovada,Físico,Rio de Janeiro,RJ
+T000776,C0175,E010,2026-02-09,Caju Ciclos,Home Office,499.05,Aprovada,Físico,Porto Alegre,RS
+T000777,C0126,E006,2025-10-16,Despesas Corporativas,Home Office,798.21,Negada,App,Porto Alegre,RS
+T000778,C0184,E001,2025-10-07,Caju Ciclos,Flex,597.71,Aprovada,App,São Paulo,SP
+T000779,C0168,E008,2026-01-10,Despesas Corporativas,Saúde,105.11,Aprovada,Físico,Curitiba,PR
+T000780,C0148,E009,2025-11-01,Despesas Corporativas,Home Office,193.67,Aprovada,Online,São Paulo,SP
+T000781,C0183,E007,2025-10-14,Cartão Multi Benefícios,Cultura,695.3,Aprovada,Físico,São Paulo,SP
+T000782,C0164,E004,2026-03-02,Premiações,Cultura,664.56,Estornada,Físico,Curitiba,PR
+T000783,C0161,E004,2025-10-12,Caju Ciclos,Saúde,718.61,Estornada,App,Porto Alegre,RS
+T000784,C0046,E006,2025-10-05,Caju Ciclos,Flex,579.56,Aprovada,Online,São Paulo,SP
+T000785,C0129,E001,2025-06-04,Despesas Corporativas,Educação,510.95,Aprovada,Físico,Curitiba,PR
+T000786,C0016,E004,2025-03-22,Despesas Corporativas,Alimentação,332.11,Aprovada,Físico,Curitiba,PR
+T000787,C0159,E006,2025-05-28,Cartão Multi Benefícios,Cultura,129.13,Aprovada,Online,São Paulo,SP
+T000788,C0038,E009,2025-11-25,Despesas Corporativas,Flex,451.17,Aprovada,Online,Rio de Janeiro,RJ
+T000789,C0129,E004,2025-06-26,Caju Ciclos,Educação,138.36,Aprovada,Físico,Porto Alegre,RS
+T000790,C0034,E010,2025-10-27,Cartão Multi Benefícios,Flex,623.14,Aprovada,App,Belo Horizonte,MG
+T000791,C0115,E002,2025-03-15,Caju Ciclos,Saúde,351.26,Aprovada,Físico,São Paulo,SP
+T000792,C0177,E005,2025-05-17,Premiações,Saúde,147.01,Negada,Físico,Belo Horizonte,MG
+T000793,C0067,E003,2025-07-04,Premiações,Saúde,738.4,Negada,App,Curitiba,PR
+T000794,C0160,E010,2025-04-23,Premiações,Mobilidade,127.88,Aprovada,Físico,Curitiba,PR
+T000795,C0065,E006,2025-06-27,Premiações,Cultura,550.27,Aprovada,Físico,Curitiba,PR
+T000796,C0062,E009,2026-01-30,Premiações,Home Office,288.84,Aprovada,Online,São Paulo,SP
+T000797,C0062,E010,2025-11-21,Caju Ciclos,Flex,78.26,Aprovada,Online,Belo Horizonte,MG
+T000798,C0008,E002,2025-04-14,Premiações,Saúde,309.96,Aprovada,Físico,Rio de Janeiro,RJ
+T000799,C0021,E010,2025-07-19,Despesas Corporativas,Saúde,480.12,Aprovada,Online,Curitiba,PR
+T000800,C0173,E006,2025-10-15,Cartão Multi Benefícios,Cultura,73.42,Negada,Físico,São Paulo,SP
+T000801,C0050,E005,2025-09-12,Despesas Corporativas,Cultura,658.91,Aprovada,Online,Belo Horizonte,MG
+T000802,C0078,E004,2025-06-16,Cartão Multi Benefícios,Saúde,418.34,Aprovada,Físico,Porto Alegre,RS
+T000803,C0048,E003,2025-08-21,Caju Ciclos,Refeição,614.98,Aprovada,Físico,Belo Horizonte,MG
+T000804,C0098,E003,2025-08-06,Caju Ciclos,Saúde,562.4,Aprovada,Online,Porto Alegre,RS
+T000805,C0200,E009,2025-04-15,Cartão Multi Benefícios,Educação,267.4,Aprovada,App,Curitiba,PR
+T000806,C0173,E001,2025-12-02,Despesas Corporativas,Mobilidade,522.55,Negada,Físico,Rio de Janeiro,RJ
+T000807,C0068,E002,2025-10-23,Caju Ciclos,Refeição,789.86,Negada,App,Belo Horizonte,MG
+T000808,C0063,E001,2025-11-20,Despesas Corporativas,Mobilidade,427.86,Aprovada,App,São Paulo,SP
+T000809,C0122,E002,2025-06-03,Cartão Multi Benefícios,Saúde,442.63,Aprovada,Online,Porto Alegre,RS
+T000810,C0125,E005,2026-02-27,Cartão Multi Benefícios,Flex,760.68,Aprovada,Físico,Rio de Janeiro,RJ
+T000811,C0053,E005,2025-03-18,Despesas Corporativas,Saúde,664.99,Aprovada,App,Curitiba,PR
+T000812,C0188,E009,2025-10-31,Cartão Multi Benefícios,Flex,737.04,Aprovada,Online,Rio de Janeiro,RJ
+T000813,C0058,E001,2026-01-08,Premiações,Cultura,600.72,Aprovada,Online,Porto Alegre,RS
+T000814,C0148,E010,2026-02-09,Cartão Multi Benefícios,Cultura,387.37,Negada,App,Belo Horizonte,MG
+T000815,C0185,E004,2026-02-28,Premiações,Home Office,153.62,Aprovada,Online,Curitiba,PR
+T000816,C0119,E003,2025-09-17,Premiações,Home Office,708.3,Aprovada,Online,Belo Horizonte,MG
+T000817,C0137,E002,2025-07-24,Caju Ciclos,Educação,224.42,Aprovada,App,Belo Horizonte,MG
+T000818,C0034,E004,2026-02-22,Cartão Multi Benefícios,Mobilidade,79.37,Aprovada,App,São Paulo,SP
+T000819,C0146,E008,2026-02-04,Cartão Multi Benefícios,Saúde,187.58,Aprovada,Físico,Belo Horizonte,MG
+T000820,C0094,E010,2025-10-14,Despesas Corporativas,Alimentação,587.14,Aprovada,Físico,São Paulo,SP
+T000821,C0072,E009,2026-01-30,Cartão Multi Benefícios,Mobilidade,235.26,Aprovada,Online,Porto Alegre,RS
+T000822,C0121,E006,2025-07-31,Cartão Multi Benefícios,Cultura,743.66,Aprovada,App,Porto Alegre,RS
+T000823,C0077,E006,2026-02-06,Caju Ciclos,Cultura,383.84,Aprovada,Físico,Curitiba,PR
+T000824,C0056,E001,2025-10-23,Cartão Multi Benefícios,Alimentação,766.44,Aprovada,Online,Curitiba,PR
+T000825,C0190,E009,2025-11-09,Caju Ciclos,Cultura,770.29,Negada,App,Belo Horizonte,MG
+T000826,C0104,E005,2025-03-27,Caju Ciclos,Saúde,216.02,Aprovada,Online,Curitiba,PR
+T000827,C0080,E005,2025-11-27,Premiações,Educação,580.47,Aprovada,Físico,Porto Alegre,RS
+T000828,C0122,E003,2025-07-24,Premiações,Refeição,535.19,Aprovada,Online,São Paulo,SP
+T000829,C0065,E009,2026-01-27,Cartão Multi Benefícios,Saúde,39.78,Aprovada,App,São Paulo,SP
+T000830,C0130,E003,2026-01-14,Caju Ciclos,Saúde,566.01,Aprovada,Físico,Porto Alegre,RS
+T000831,C0157,E005,2026-03-04,Cartão Multi Benefícios,Refeição,250.48,Aprovada,Online,Curitiba,PR
+T000832,C0130,E004,2025-04-26,Despesas Corporativas,Refeição,99.02,Aprovada,Físico,Porto Alegre,RS
+T000833,C0139,E009,2025-12-07,Cartão Multi Benefícios,Refeição,340.8,Aprovada,App,Rio de Janeiro,RJ
+T000834,C0051,E001,2025-05-11,Caju Ciclos,Mobilidade,711.07,Aprovada,Físico,Porto Alegre,RS
+T000835,C0185,E002,2025-09-14,Premiações,Mobilidade,250.47,Aprovada,Online,Porto Alegre,RS
+T000836,C0022,E005,2026-02-17,Cartão Multi Benefícios,Alimentação,211.2,Aprovada,Físico,Belo Horizonte,MG
+T000837,C0132,E010,2026-02-16,Premiações,Mobilidade,154.6,Aprovada,Online,Belo Horizonte,MG
+T000838,C0066,E010,2025-03-19,Caju Ciclos,Mobilidade,660.28,Aprovada,Físico,Rio de Janeiro,RJ
+T000839,C0149,E008,2025-05-17,Cartão Multi Benefícios,Flex,371.73,Aprovada,App,São Paulo,SP
+T000840,C0049,E005,2026-03-02,Caju Ciclos,Home Office,243.32,Aprovada,Online,Rio de Janeiro,RJ
+T000841,C0182,E001,2025-06-23,Caju Ciclos,Educação,437.59,Aprovada,Online,Belo Horizonte,MG
+T000842,C0032,E001,2025-07-16,Premiações,Refeição,544.44,Aprovada,Físico,Rio de Janeiro,RJ
+T000843,C0133,E004,2025-12-05,Premiações,Educação,695.5,Aprovada,Físico,Rio de Janeiro,RJ
+T000844,C0170,E009,2025-11-04,Despesas Corporativas,Alimentação,20.96,Aprovada,Físico,São Paulo,SP
+T000845,C0172,E003,2025-06-07,Cartão Multi Benefícios,Educação,148.75,Aprovada,Online,Rio de Janeiro,RJ
+T000846,C0034,E002,2025-09-20,Despesas Corporativas,Home Office,12.73,Aprovada,Online,Curitiba,PR
+T000847,C0031,E002,2025-05-29,Despesas Corporativas,Refeição,199.27,Aprovada,Físico,São Paulo,SP
+T000848,C0193,E003,2025-04-18,Premiações,Refeição,240.31,Negada,App,Curitiba,PR
+T000849,C0065,E007,2026-02-09,Caju Ciclos,Alimentação,453.93,Negada,App,Porto Alegre,RS
+T000850,C0005,E003,2025-09-13,Premiações,Refeição,207.81,Negada,Físico,Rio de Janeiro,RJ
+T000851,C0153,E007,2025-10-02,Premiações,Cultura,194.42,Aprovada,App,Curitiba,PR
+T000852,C0113,E006,2025-10-25,Caju Ciclos,Saúde,641.49,Aprovada,Físico,São Paulo,SP
+T000853,C0199,E003,2025-05-21,Cartão Multi Benefícios,Educação,276.68,Aprovada,Online,São Paulo,SP
+T000854,C0052,E002,2025-04-05,Cartão Multi Benefícios,Alimentação,345.39,Aprovada,Físico,Porto Alegre,RS
+T000855,C0090,E006,2025-10-05,Despesas Corporativas,Cultura,396.77,Aprovada,Online,São Paulo,SP
+T000856,C0091,E001,2025-12-28,Caju Ciclos,Flex,78.04,Aprovada,App,Belo Horizonte,MG
+T000857,C0144,E003,2025-12-08,Despesas Corporativas,Saúde,494.88,Estornada,Online,Curitiba,PR
+T000858,C0181,E001,2025-06-07,Cartão Multi Benefícios,Educação,212.32,Aprovada,App,Belo Horizonte,MG
+T000859,C0130,E002,2025-04-16,Despesas Corporativas,Flex,651.2,Aprovada,Físico,Rio de Janeiro,RJ
+T000860,C0120,E008,2026-01-22,Premiações,Alimentação,768.77,Aprovada,Online,Curitiba,PR
+T000861,C0033,E009,2025-10-04,Premiações,Refeição,772.74,Aprovada,Físico,Curitiba,PR
+T000862,C0165,E007,2025-06-12,Caju Ciclos,Educação,494.75,Aprovada,Online,Rio de Janeiro,RJ
+T000863,C0018,E005,2025-08-02,Despesas Corporativas,Mobilidade,568.03,Aprovada,App,Rio de Janeiro,RJ
+T000864,C0065,E005,2025-05-19,Premiações,Home Office,56.74,Aprovada,Online,Porto Alegre,RS
+T000865,C0183,E009,2025-04-08,Premiações,Flex,266.13,Aprovada,App,Curitiba,PR
+T000866,C0137,E009,2025-10-12,Caju Ciclos,Cultura,48.58,Aprovada,Físico,Belo Horizonte,MG
+T000867,C0049,E009,2025-10-29,Despesas Corporativas,Educação,737.37,Aprovada,App,Curitiba,PR
+T000868,C0032,E007,2025-03-30,Despesas Corporativas,Flex,152.12,Aprovada,App,Belo Horizonte,MG
+T000869,C0101,E006,2025-08-15,Despesas Corporativas,Mobilidade,241.96,Aprovada,Online,Belo Horizonte,MG
+T000870,C0129,E009,2025-07-16,Premiações,Flex,338.12,Aprovada,Online,São Paulo,SP
+T000871,C0057,E007,2025-09-09,Premiações,Saúde,348.17,Aprovada,App,Curitiba,PR
+T000872,C0179,E002,2025-07-03,Despesas Corporativas,Mobilidade,248.27,Aprovada,App,Belo Horizonte,MG
+T000873,C0162,E004,2026-02-28,Premiações,Cultura,211.81,Aprovada,Online,Porto Alegre,RS
+T000874,C0138,E005,2025-11-26,Caju Ciclos,Flex,448.17,Aprovada,Online,Porto Alegre,RS
+T000875,C0152,E003,2025-09-25,Despesas Corporativas,Flex,102.46,Aprovada,App,Curitiba,PR
+T000876,C0069,E001,2025-10-13,Despesas Corporativas,Alimentação,172.77,Aprovada,App,Curitiba,PR
+T000877,C0167,E009,2026-02-03,Premiações,Mobilidade,327.66,Aprovada,App,Curitiba,PR
+T000878,C0016,E005,2025-07-31,Despesas Corporativas,Alimentação,520.2,Aprovada,Online,São Paulo,SP
+T000879,C0116,E002,2025-08-06,Premiações,Alimentação,439.01,Aprovada,Físico,Curitiba,PR
+T000880,C0112,E003,2025-06-17,Premiações,Home Office,376.21,Aprovada,App,Porto Alegre,RS
+T000881,C0121,E010,2025-11-19,Despesas Corporativas,Home Office,726.44,Aprovada,Físico,Rio de Janeiro,RJ
+T000882,C0065,E009,2025-05-29,Cartão Multi Benefícios,Mobilidade,380.64,Negada,Online,São Paulo,SP
+T000883,C0089,E005,2025-10-30,Cartão Multi Benefícios,Saúde,43.13,Aprovada,Online,Porto Alegre,RS
+T000884,C0137,E002,2025-06-03,Caju Ciclos,Refeição,141.31,Aprovada,Online,São Paulo,SP
+T000885,C0186,E003,2025-11-14,Cartão Multi Benefícios,Home Office,700.46,Aprovada,App,São Paulo,SP
+T000886,C0041,E007,2025-07-04,Cartão Multi Benefícios,Home Office,763.51,Aprovada,Online,Porto Alegre,RS
+T000887,C0109,E008,2025-08-03,Premiações,Educação,373.55,Aprovada,App,Curitiba,PR
+T000888,C0103,E007,2025-06-25,Despesas Corporativas,Saúde,478.1,Aprovada,Online,Belo Horizonte,MG
+T000889,C0080,E004,2025-08-09,Premiações,Saúde,658.21,Negada,App,Porto Alegre,RS
+T000890,C0102,E006,2025-08-02,Premiações,Saúde,190.72,Aprovada,Físico,Curitiba,PR
+T000891,C0161,E004,2025-11-22,Premiações,Refeição,386.66,Aprovada,Físico,São Paulo,SP
+T000892,C0118,E001,2025-07-12,Cartão Multi Benefícios,Cultura,17.44,Aprovada,Online,Belo Horizonte,MG
+T000893,C0025,E001,2025-08-07,Despesas Corporativas,Cultura,239.06,Aprovada,Físico,Porto Alegre,RS
+T000894,C0095,E003,2025-10-16,Premiações,Refeição,333.96,Aprovada,Online,Curitiba,PR
+T000895,C0075,E001,2026-01-22,Despesas Corporativas,Saúde,553.17,Aprovada,Online,Curitiba,PR
+T000896,C0146,E007,2025-09-06,Cartão Multi Benefícios,Cultura,620.9,Aprovada,Físico,Curitiba,PR
+T000897,C0039,E004,2025-12-28,Despesas Corporativas,Refeição,280.69,Aprovada,App,Curitiba,PR
+T000898,C0101,E009,2025-08-25,Cartão Multi Benefícios,Cultura,483.19,Aprovada,Físico,Rio de Janeiro,RJ
+T000899,C0113,E003,2025-03-15,Caju Ciclos,Cultura,29.52,Aprovada,App,Curitiba,PR
+T000900,C0141,E004,2025-12-22,Despesas Corporativas,Alimentação,567.14,Aprovada,Físico,Belo Horizonte,MG
+T000901,C0006,E006,2026-02-13,Cartão Multi Benefícios,Cultura,256.94,Aprovada,Físico,Belo Horizonte,MG
+T000902,C0189,E003,2025-07-21,Despesas Corporativas,Flex,241.97,Aprovada,Físico,Curitiba,PR
+T000903,C0083,E003,2026-03-04,Premiações,Alimentação,45.8,Aprovada,Físico,Porto Alegre,RS
+T000904,C0152,E010,2025-04-24,Despesas Corporativas,Alimentação,201.74,Aprovada,App,Rio de Janeiro,RJ
+T000905,C0144,E009,2025-10-17,Cartão Multi Benefícios,Cultura,600.62,Negada,Físico,São Paulo,SP
+T000906,C0143,E002,2025-07-08,Caju Ciclos,Flex,278.74,Aprovada,Físico,Belo Horizonte,MG
+T000907,C0054,E004,2026-02-11,Caju Ciclos,Educação,793.88,Aprovada,App,Porto Alegre,RS
+T000908,C0098,E009,2025-04-17,Caju Ciclos,Flex,6.96,Aprovada,App,Curitiba,PR
+T000909,C0145,E001,2026-02-15,Despesas Corporativas,Home Office,260.72,Aprovada,Online,Belo Horizonte,MG
+T000910,C0031,E009,2025-07-11,Despesas Corporativas,Mobilidade,669.89,Aprovada,App,Belo Horizonte,MG
+T000911,C0067,E005,2025-11-24,Despesas Corporativas,Cultura,720.57,Negada,Online,Porto Alegre,RS
+T000912,C0182,E005,2026-02-03,Premiações,Cultura,669.57,Aprovada,Físico,Rio de Janeiro,RJ
+T000913,C0013,E003,2025-05-17,Caju Ciclos,Saúde,570.69,Aprovada,App,Belo Horizonte,MG
+T000914,C0126,E010,2025-08-11,Premiações,Alimentação,434.97,Aprovada,Online,Rio de Janeiro,RJ
+T000915,C0033,E002,2025-11-03,Cartão Multi Benefícios,Home Office,293.53,Aprovada,App,Curitiba,PR
+T000916,C0030,E002,2025-06-10,Despesas Corporativas,Alimentação,178.81,Aprovada,Online,Curitiba,PR
+T000917,C0139,E010,2025-05-20,Caju Ciclos,Home Office,383.65,Aprovada,App,Belo Horizonte,MG
+T000918,C0064,E009,2026-02-16,Premiações,Mobilidade,116.5,Aprovada,App,Porto Alegre,RS
+T000919,C0051,E005,2025-06-13,Premiações,Cultura,225.41,Aprovada,Físico,São Paulo,SP
+T000920,C0013,E004,2025-04-20,Caju Ciclos,Refeição,766.49,Aprovada,Online,São Paulo,SP
+T000921,C0188,E005,2026-01-15,Cartão Multi Benefícios,Refeição,144.36,Aprovada,Online,Belo Horizonte,MG
+T000922,C0172,E006,2025-07-08,Despesas Corporativas,Home Office,514.9,Aprovada,Online,Rio de Janeiro,RJ
+T000923,C0031,E003,2025-03-23,Despesas Corporativas,Educação,427.12,Aprovada,Físico,Porto Alegre,RS
+T000924,C0081,E005,2025-11-08,Premiações,Educação,70.75,Aprovada,Físico,Belo Horizonte,MG
+T000925,C0127,E008,2026-02-13,Premiações,Educação,224.84,Aprovada,App,São Paulo,SP
+T000926,C0012,E008,2026-02-07,Despesas Corporativas,Refeição,179.39,Aprovada,Online,São Paulo,SP
+T000927,C0161,E007,2025-12-13,Caju Ciclos,Home Office,313.52,Aprovada,Físico,São Paulo,SP
+T000928,C0195,E007,2026-03-03,Despesas Corporativas,Refeição,50.91,Aprovada,App,Rio de Janeiro,RJ
+T000929,C0014,E009,2025-04-11,Despesas Corporativas,Mobilidade,419.73,Aprovada,Online,São Paulo,SP
+T000930,C0177,E010,2025-04-08,Caju Ciclos,Refeição,649.33,Negada,Online,Belo Horizonte,MG
+T000931,C0061,E003,2026-01-28,Cartão Multi Benefícios,Refeição,524.07,Aprovada,App,São Paulo,SP
+T000932,C0193,E009,2025-12-26,Premiações,Saúde,305.21,Aprovada,App,Belo Horizonte,MG
+T000933,C0013,E002,2025-04-12,Caju Ciclos,Flex,532.65,Aprovada,App,Curitiba,PR
+T000934,C0171,E010,2026-02-03,Caju Ciclos,Flex,629.97,Aprovada,App,São Paulo,SP
+T000935,C0070,E006,2026-01-19,Cartão Multi Benefícios,Saúde,292.84,Negada,Físico,Rio de Janeiro,RJ
+T000936,C0008,E008,2025-07-02,Despesas Corporativas,Saúde,450.43,Aprovada,Físico,Rio de Janeiro,RJ
+T000937,C0065,E009,2025-04-01,Premiações,Alimentação,640.13,Aprovada,App,Porto Alegre,RS
+T000938,C0031,E008,2025-04-21,Cartão Multi Benefícios,Educação,327.51,Negada,Online,Curitiba,PR
+T000939,C0032,E005,2025-05-08,Cartão Multi Benefícios,Cultura,168.79,Negada,App,Rio de Janeiro,RJ
+T000940,C0157,E007,2025-07-12,Caju Ciclos,Cultura,751.41,Aprovada,Físico,Porto Alegre,RS
+T000941,C0162,E002,2025-08-16,Caju Ciclos,Refeição,312.3,Aprovada,Físico,São Paulo,SP
+T000942,C0116,E006,2025-07-16,Caju Ciclos,Refeição,527.94,Aprovada,Online,Curitiba,PR
+T000943,C0034,E003,2025-05-01,Cartão Multi Benefícios,Alimentação,796.13,Aprovada,Online,Rio de Janeiro,RJ
+T000944,C0199,E008,2025-06-17,Premiações,Mobilidade,558.42,Aprovada,App,Porto Alegre,RS
+T000945,C0156,E006,2026-01-10,Premiações,Refeição,130.57,Aprovada,Online,Rio de Janeiro,RJ
+T000946,C0030,E008,2026-01-10,Premiações,Saúde,398.62,Aprovada,Online,São Paulo,SP
+T000947,C0185,E007,2025-08-03,Caju Ciclos,Saúde,260.56,Aprovada,App,São Paulo,SP
+T000948,C0133,E006,2025-07-05,Premiações,Alimentação,625.95,Aprovada,Físico,São Paulo,SP
+T000949,C0032,E002,2025-11-07,Premiações,Flex,205.76,Aprovada,Físico,Porto Alegre,RS
+T000950,C0189,E009,2025-04-13,Premiações,Educação,789.78,Aprovada,Online,Rio de Janeiro,RJ
+T000951,C0093,E002,2026-01-05,Cartão Multi Benefícios,Alimentação,384.22,Aprovada,Online,Belo Horizonte,MG
+T000952,C0025,E007,2025-11-26,Despesas Corporativas,Alimentação,445.96,Aprovada,Físico,Curitiba,PR
+T000953,C0034,E006,2025-04-24,Cartão Multi Benefícios,Cultura,521.24,Aprovada,Físico,Belo Horizonte,MG
+T000954,C0135,E009,2025-08-14,Despesas Corporativas,Refeição,620.25,Aprovada,Físico,Porto Alegre,RS
+T000955,C0041,E001,2025-11-16,Premiações,Cultura,370.29,Aprovada,App,Belo Horizonte,MG
+T000956,C0021,E003,2026-02-05,Despesas Corporativas,Alimentação,257.8,Aprovada,App,Porto Alegre,RS
+T000957,C0004,E010,2025-05-24,Caju Ciclos,Educação,459.48,Estornada,Online,Curitiba,PR
+T000958,C0197,E002,2025-07-10,Caju Ciclos,Cultura,328.48,Negada,Físico,Rio de Janeiro,RJ
+T000959,C0081,E009,2025-07-25,Cartão Multi Benefícios,Saúde,72.06,Aprovada,Físico,Belo Horizonte,MG
+T000960,C0200,E010,2026-02-03,Caju Ciclos,Mobilidade,570.7,Aprovada,Online,São Paulo,SP
+T000961,C0115,E009,2025-05-16,Cartão Multi Benefícios,Home Office,64.71,Aprovada,Físico,São Paulo,SP
+T000962,C0166,E001,2026-01-11,Caju Ciclos,Flex,364.34,Aprovada,App,Curitiba,PR
+T000963,C0007,E010,2025-11-09,Premiações,Flex,78.81,Aprovada,Físico,Rio de Janeiro,RJ
+T000964,C0020,E007,2025-12-13,Premiações,Saúde,200.68,Aprovada,App,São Paulo,SP
+T000965,C0076,E007,2025-10-10,Caju Ciclos,Flex,648.54,Negada,Físico,Belo Horizonte,MG
+T000966,C0150,E005,2026-02-27,Premiações,Educação,74.59,Aprovada,App,São Paulo,SP
+T000967,C0181,E001,2025-12-10,Caju Ciclos,Saúde,456.25,Aprovada,Online,Curitiba,PR
+T000968,C0018,E007,2026-02-06,Despesas Corporativas,Mobilidade,234.49,Aprovada,Online,Porto Alegre,RS
+T000969,C0131,E009,2025-11-15,Despesas Corporativas,Mobilidade,649.63,Aprovada,Online,São Paulo,SP
+T000970,C0021,E001,2025-07-27,Premiações,Saúde,665.12,Aprovada,Online,São Paulo,SP
+T000971,C0056,E008,2025-10-02,Caju Ciclos,Refeição,543.73,Aprovada,App,Curitiba,PR
+T000972,C0096,E003,2025-04-03,Premiações,Flex,26.05,Aprovada,Físico,Rio de Janeiro,RJ
+T000973,C0064,E010,2025-05-04,Premiações,Saúde,292.44,Negada,App,Belo Horizonte,MG
+T000974,C0157,E009,2026-03-04,Caju Ciclos,Mobilidade,679.72,Aprovada,App,Belo Horizonte,MG
+T000975,C0015,E002,2025-04-05,Premiações,Cultura,777.8,Aprovada,App,São Paulo,SP
+T000976,C0036,E001,2025-05-12,Cartão Multi Benefícios,Educação,355.74,Negada,Físico,São Paulo,SP
+T000977,C0029,E001,2025-06-05,Premiações,Mobilidade,540.42,Aprovada,Físico,Curitiba,PR
+T000978,C0158,E010,2026-03-03,Cartão Multi Benefícios,Alimentação,662.23,Estornada,Online,Curitiba,PR
+T000979,C0004,E010,2025-10-23,Cartão Multi Benefícios,Mobilidade,688.24,Aprovada,Físico,São Paulo,SP
+T000980,C0129,E002,2025-12-01,Caju Ciclos,Educação,447.79,Aprovada,App,Porto Alegre,RS
+T000981,C0126,E006,2025-05-02,Premiações,Saúde,730.92,Aprovada,Físico,Belo Horizonte,MG
+T000982,C0152,E008,2025-11-02,Despesas Corporativas,Educação,657.37,Aprovada,App,Porto Alegre,RS
+T000983,C0109,E008,2025-12-17,Premiações,Alimentação,559.89,Aprovada,Online,Rio de Janeiro,RJ
+T000984,C0025,E005,2025-10-09,Premiações,Educação,7.57,Aprovada,Online,São Paulo,SP
+T000985,C0037,E002,2026-01-05,Premiações,Mobilidade,24.26,Aprovada,Online,Rio de Janeiro,RJ
+T000986,C0042,E009,2025-06-08,Caju Ciclos,Home Office,426.24,Aprovada,App,São Paulo,SP
+T000987,C0060,E002,2025-10-06,Despesas Corporativas,Cultura,254.67,Aprovada,Online,São Paulo,SP
+T000988,C0057,E005,2025-09-02,Caju Ciclos,Home Office,652.85,Aprovada,Online,Belo Horizonte,MG
+T000989,C0010,E010,2025-10-16,Premiações,Educação,295.29,Negada,Físico,Belo Horizonte,MG
+T000990,C0046,E003,2025-08-01,Caju Ciclos,Educação,36.29,Aprovada,Online,São Paulo,SP
+T000991,C0023,E001,2025-12-03,Premiações,Refeição,509.65,Aprovada,App,São Paulo,SP
+T000992,C0071,E003,2025-11-08,Despesas Corporativas,Mobilidade,218.35,Aprovada,Online,Rio de Janeiro,RJ
+T000993,C0045,E007,2025-06-27,Despesas Corporativas,Alimentação,787.38,Aprovada,Online,Porto Alegre,RS
+T000994,C0198,E010,2025-10-18,Premiações,Educação,278.93,Aprovada,Online,Curitiba,PR
+T000995,C0168,E009,2025-09-12,Premiações,Refeição,205.15,Aprovada,Físico,São Paulo,SP
+T000996,C0067,E010,2025-10-30,Cartão Multi Benefícios,Saúde,83.45,Aprovada,Online,Rio de Janeiro,RJ
+T000997,C0066,E009,2025-06-25,Caju Ciclos,Mobilidade,618.0,Aprovada,Físico,Curitiba,PR
+T000998,C0151,E005,2026-01-26,Premiações,Saúde,772.89,Aprovada,Online,Rio de Janeiro,RJ
+T000999,C0005,E003,2025-09-20,Cartão Multi Benefícios,Refeição,123.64,Aprovada,Online,Rio de Janeiro,RJ
+T001000,C0099,E007,2026-02-07,Cartão Multi Benefícios,Educação,26.43,Aprovada,App,São Paulo,SP

@@ -1,0 +1,81 @@
+oportunidade_id,empresa_prospect,segmento,porte,produto_interesse,estagio_funil,valor_arr_estimado_brl,probabilidade_pct,vendedor,data_entrada_funil,data_prevista_fechamento,origem_lead
+OPP0001,Empresa Prospect 1,Financeiro,SMB,Premiações,Proposta,180000,50,Beatriz Silva,2025-12-07,2026-07-05,Evento
+OPP0002,Empresa Prospect 2,Financeiro,Mid-Market,Cartão Multi Benefícios,Qualificação,96000,30,Marco Antunes,2025-12-18,2026-06-03,Evento
+OPP0003,Empresa Prospect 3,Saúde,SMB,Cartão Multi Benefícios,Ganho,12000,100,Beatriz Silva,2025-11-25,2026-06-20,Evento
+OPP0004,Empresa Prospect 4,Tecnologia,Mid-Market,Cartão Multi Benefícios,Qualificação,96000,30,Beatriz Silva,2026-02-11,2026-06-16,Indicação
+OPP0005,Empresa Prospect 5,Varejo,SMB,Cartão Multi Benefícios,Proposta,180000,50,Rafael Dias,2025-12-08,2026-04-27,Outbound
+OPP0006,Empresa Prospect 6,Educação,SMB,Premiações,Prospecção,24000,15,Rafael Dias,2025-11-14,2026-07-06,Evento
+OPP0007,Empresa Prospect 7,Saúde,SMB,Caju Ciclos,Qualificação,24000,30,Beatriz Silva,2025-09-15,2026-04-04,Inbound
+OPP0008,Empresa Prospect 8,Educação,Enterprise,Despesas Corporativas,Qualificação,96000,30,Beatriz Silva,2025-10-16,2026-05-11,Evento
+OPP0009,Empresa Prospect 9,Saúde,Enterprise,Premiações,Qualificação,360000,30,Rafael Dias,2025-12-31,2026-07-05,Indicação
+OPP0010,Empresa Prospect 10,Varejo,Mid-Market,Despesas Corporativas,Perdido,12000,0,Juliana Costa,2026-01-31,2026-05-25,Indicação
+OPP0011,Empresa Prospect 11,Financeiro,SMB,Cartão Multi Benefícios,Qualificação,24000,30,Juliana Costa,2025-12-07,2026-03-20,Inbound
+OPP0012,Empresa Prospect 12,Saúde,Enterprise,Despesas Corporativas,Perdido,360000,0,Juliana Costa,2025-10-17,2026-06-04,Evento
+OPP0013,Empresa Prospect 13,Financeiro,Enterprise,Despesas Corporativas,Prospecção,24000,15,Marco Antunes,2025-11-04,2026-04-17,Indicação
+OPP0014,Empresa Prospect 14,Varejo,Mid-Market,Cartão Multi Benefícios,Ganho,24000,100,Juliana Costa,2025-10-21,2026-04-23,Evento
+OPP0015,Empresa Prospect 15,Educação,Mid-Market,Premiações,Perdido,48000,0,Beatriz Silva,2025-11-10,2026-06-22,Inbound
+OPP0016,Empresa Prospect 16,Varejo,Mid-Market,Despesas Corporativas,Qualificação,12000,30,Juliana Costa,2025-10-30,2026-06-15,Inbound
+OPP0017,Empresa Prospect 17,Varejo,Mid-Market,Cartão Multi Benefícios,Proposta,96000,50,Juliana Costa,2025-10-23,2026-05-27,Evento
+OPP0018,Empresa Prospect 18,Indústria,Mid-Market,Premiações,Negociação,24000,70,Marco Antunes,2025-09-21,2026-03-30,Evento
+OPP0019,Empresa Prospect 19,Varejo,Enterprise,Cartão Multi Benefícios,Proposta,360000,50,Juliana Costa,2025-12-02,2026-05-04,Evento
+OPP0020,Empresa Prospect 20,Educação,SMB,Despesas Corporativas,Perdido,24000,0,Rafael Dias,2025-09-15,2026-06-24,Outbound
+OPP0021,Empresa Prospect 21,Logística,Mid-Market,Despesas Corporativas,Negociação,360000,70,Rafael Dias,2025-12-29,2026-03-31,Inbound
+OPP0022,Empresa Prospect 22,Indústria,Mid-Market,Despesas Corporativas,Negociação,360000,70,Beatriz Silva,2025-12-21,2026-05-29,Indicação
+OPP0023,Empresa Prospect 23,Tecnologia,Mid-Market,Caju Ciclos,Prospecção,12000,15,Rafael Dias,2026-02-17,2026-03-30,Indicação
+OPP0024,Empresa Prospect 24,Logística,Enterprise,Despesas Corporativas,Negociação,24000,70,Rafael Dias,2026-02-06,2026-04-26,Outbound
+OPP0025,Empresa Prospect 25,Financeiro,SMB,Caju Ciclos,Negociação,24000,70,Juliana Costa,2025-10-18,2026-07-04,Outbound
+OPP0026,Empresa Prospect 26,Tecnologia,Enterprise,Despesas Corporativas,Perdido,360000,0,Marco Antunes,2026-02-13,2026-03-29,Inbound
+OPP0027,Empresa Prospect 27,Indústria,Mid-Market,Cartão Multi Benefícios,Prospecção,48000,15,Marco Antunes,2025-11-17,2026-06-21,Evento
+OPP0028,Empresa Prospect 28,Logística,SMB,Premiações,Proposta,12000,50,Rafael Dias,2026-01-22,2026-06-24,Parceiro
+OPP0029,Empresa Prospect 29,Varejo,Enterprise,Despesas Corporativas,Prospecção,48000,15,Beatriz Silva,2025-12-24,2026-05-11,Evento
+OPP0030,Empresa Prospect 30,Indústria,Mid-Market,Caju Ciclos,Perdido,24000,0,Rafael Dias,2025-12-28,2026-06-12,Indicação
+OPP0031,Empresa Prospect 31,Varejo,Mid-Market,Despesas Corporativas,Negociação,12000,70,Juliana Costa,2025-09-20,2026-04-17,Parceiro
+OPP0032,Empresa Prospect 32,Tecnologia,SMB,Cartão Multi Benefícios,Ganho,180000,100,Marco Antunes,2025-11-01,2026-04-12,Indicação
+OPP0033,Empresa Prospect 33,Tecnologia,Enterprise,Despesas Corporativas,Prospecção,24000,15,Rafael Dias,2026-01-06,2026-07-01,Outbound
+OPP0034,Empresa Prospect 34,Logística,Enterprise,Despesas Corporativas,Perdido,180000,0,Beatriz Silva,2025-12-12,2026-04-04,Evento
+OPP0035,Empresa Prospect 35,Financeiro,Enterprise,Premiações,Proposta,48000,50,Beatriz Silva,2025-09-15,2026-07-05,Evento
+OPP0036,Empresa Prospect 36,Saúde,Enterprise,Premiações,Negociação,360000,70,Marco Antunes,2025-12-02,2026-07-04,Indicação
+OPP0037,Empresa Prospect 37,Educação,Enterprise,Premiações,Proposta,12000,50,Marco Antunes,2025-11-27,2026-05-25,Inbound
+OPP0038,Empresa Prospect 38,Logística,Mid-Market,Caju Ciclos,Proposta,12000,50,Juliana Costa,2025-09-30,2026-04-01,Outbound
+OPP0039,Empresa Prospect 39,Logística,SMB,Premiações,Proposta,12000,50,Rafael Dias,2025-12-10,2026-04-19,Parceiro
+OPP0040,Empresa Prospect 40,Varejo,Mid-Market,Caju Ciclos,Qualificação,360000,30,Beatriz Silva,2025-12-10,2026-06-12,Evento
+OPP0041,Empresa Prospect 41,Saúde,Enterprise,Caju Ciclos,Qualificação,360000,30,Beatriz Silva,2026-02-14,2026-04-20,Outbound
+OPP0042,Empresa Prospect 42,Logística,Enterprise,Cartão Multi Benefícios,Prospecção,360000,15,Juliana Costa,2026-01-19,2026-06-06,Evento
+OPP0043,Empresa Prospect 43,Varejo,Mid-Market,Caju Ciclos,Proposta,48000,50,Marco Antunes,2026-02-16,2026-07-06,Indicação
+OPP0044,Empresa Prospect 44,Logística,SMB,Caju Ciclos,Prospecção,360000,15,Rafael Dias,2025-12-30,2026-05-11,Parceiro
+OPP0045,Empresa Prospect 45,Educação,Mid-Market,Premiações,Qualificação,180000,30,Marco Antunes,2025-12-28,2026-05-02,Parceiro
+OPP0046,Empresa Prospect 46,Logística,Mid-Market,Caju Ciclos,Ganho,12000,100,Beatriz Silva,2026-02-06,2026-07-06,Indicação
+OPP0047,Empresa Prospect 47,Financeiro,Mid-Market,Despesas Corporativas,Negociação,360000,70,Rafael Dias,2025-12-01,2026-06-17,Outbound
+OPP0048,Empresa Prospect 48,Educação,Enterprise,Despesas Corporativas,Qualificação,360000,30,Juliana Costa,2026-01-23,2026-04-17,Indicação
+OPP0049,Empresa Prospect 49,Tecnologia,Mid-Market,Cartão Multi Benefícios,Negociação,96000,70,Beatriz Silva,2025-09-20,2026-04-19,Inbound
+OPP0050,Empresa Prospect 50,Logística,SMB,Cartão Multi Benefícios,Proposta,360000,50,Beatriz Silva,2025-10-12,2026-06-07,Inbound
+OPP0051,Empresa Prospect 51,Saúde,Enterprise,Premiações,Negociação,24000,70,Marco Antunes,2026-02-14,2026-06-11,Inbound
+OPP0052,Empresa Prospect 52,Educação,Mid-Market,Cartão Multi Benefícios,Qualificação,360000,30,Marco Antunes,2025-11-28,2026-03-21,Indicação
+OPP0053,Empresa Prospect 53,Indústria,Mid-Market,Despesas Corporativas,Proposta,96000,50,Marco Antunes,2025-11-25,2026-06-27,Indicação
+OPP0054,Empresa Prospect 54,Financeiro,SMB,Caju Ciclos,Negociação,180000,70,Juliana Costa,2025-11-22,2026-06-30,Outbound
+OPP0055,Empresa Prospect 55,Financeiro,Enterprise,Caju Ciclos,Prospecção,12000,15,Beatriz Silva,2025-10-15,2026-05-30,Parceiro
+OPP0056,Empresa Prospect 56,Financeiro,Enterprise,Premiações,Negociação,180000,70,Juliana Costa,2025-10-01,2026-03-25,Outbound
+OPP0057,Empresa Prospect 57,Logística,Enterprise,Premiações,Proposta,96000,50,Marco Antunes,2025-09-17,2026-04-17,Indicação
+OPP0058,Empresa Prospect 58,Indústria,Mid-Market,Despesas Corporativas,Perdido,360000,0,Juliana Costa,2025-11-03,2026-06-30,Indicação
+OPP0059,Empresa Prospect 59,Logística,SMB,Cartão Multi Benefícios,Negociação,360000,70,Rafael Dias,2025-11-20,2026-05-14,Indicação
+OPP0060,Empresa Prospect 60,Varejo,Mid-Market,Despesas Corporativas,Proposta,360000,50,Juliana Costa,2026-02-26,2026-07-05,Evento
+OPP0061,Empresa Prospect 61,Logística,SMB,Despesas Corporativas,Qualificação,24000,30,Juliana Costa,2025-09-27,2026-06-12,Indicação
+OPP0062,Empresa Prospect 62,Logística,Mid-Market,Despesas Corporativas,Perdido,12000,0,Rafael Dias,2026-02-04,2026-05-30,Parceiro
+OPP0063,Empresa Prospect 63,Tecnologia,Enterprise,Premiações,Qualificação,180000,30,Rafael Dias,2025-10-29,2026-03-18,Evento
+OPP0064,Empresa Prospect 64,Indústria,Mid-Market,Despesas Corporativas,Ganho,360000,100,Beatriz Silva,2025-11-06,2026-05-10,Indicação
+OPP0065,Empresa Prospect 65,Varejo,Mid-Market,Cartão Multi Benefícios,Negociação,12000,70,Juliana Costa,2026-01-03,2026-05-08,Parceiro
+OPP0066,Empresa Prospect 66,Logística,Enterprise,Caju Ciclos,Proposta,24000,50,Rafael Dias,2025-12-02,2026-04-13,Evento
+OPP0067,Empresa Prospect 67,Varejo,Enterprise,Cartão Multi Benefícios,Proposta,48000,50,Beatriz Silva,2026-02-03,2026-06-18,Parceiro
+OPP0068,Empresa Prospect 68,Varejo,Enterprise,Cartão Multi Benefícios,Prospecção,360000,15,Juliana Costa,2025-09-25,2026-04-05,Parceiro
+OPP0069,Empresa Prospect 69,Educação,Mid-Market,Caju Ciclos,Ganho,180000,100,Juliana Costa,2025-09-21,2026-04-12,Parceiro
+OPP0070,Empresa Prospect 70,Varejo,Enterprise,Cartão Multi Benefícios,Proposta,360000,50,Rafael Dias,2026-01-01,2026-03-19,Outbound
+OPP0071,Empresa Prospect 71,Saúde,Mid-Market,Despesas Corporativas,Prospecção,180000,15,Rafael Dias,2025-09-17,2026-03-19,Evento
+OPP0072,Empresa Prospect 72,Educação,Mid-Market,Premiações,Prospecção,96000,15,Marco Antunes,2025-12-15,2026-07-06,Parceiro
+OPP0073,Empresa Prospect 73,Educação,Enterprise,Caju Ciclos,Prospecção,48000,15,Marco Antunes,2026-01-04,2026-04-30,Inbound
+OPP0074,Empresa Prospect 74,Financeiro,Mid-Market,Premiações,Ganho,48000,100,Beatriz Silva,2026-01-09,2026-04-29,Parceiro
+OPP0075,Empresa Prospect 75,Indústria,Mid-Market,Premiações,Proposta,48000,50,Juliana Costa,2026-02-15,2026-05-05,Evento
+OPP0076,Empresa Prospect 76,Varejo,SMB,Premiações,Prospecção,12000,15,Rafael Dias,2025-10-05,2026-04-13,Indicação
+OPP0077,Empresa Prospect 77,Saúde,Enterprise,Premiações,Perdido,180000,0,Rafael Dias,2025-09-16,2026-06-28,Parceiro
+OPP0078,Empresa Prospect 78,Tecnologia,SMB,Cartão Multi Benefícios,Prospecção,360000,15,Marco Antunes,2026-01-21,2026-04-17,Inbound
+OPP0079,Empresa Prospect 79,Tecnologia,Enterprise,Cartão Multi Benefícios,Ganho,24000,100,Juliana Costa,2025-09-18,2026-05-24,Inbound
+OPP0080,Empresa Prospect 80,Logística,Mid-Market,Caju Ciclos,Perdido,48000,0,Marco Antunes,2025-10-21,2026-04-02,Indicação
